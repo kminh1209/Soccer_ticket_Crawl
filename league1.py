@@ -46,7 +46,7 @@ def crawl_ligue1_perfect_filtered():
         print("="*60)
 
         # -----------------------------------------------------------
-        # 쿠키 팝업 처리
+        # 쿠키 팝업 처리 (수정됨)
         # -----------------------------------------------------------
         time.sleep(3)
         try:
@@ -60,12 +60,16 @@ def crawl_ligue1_perfect_filtered():
             else:
                 driver.execute_script("""
                     var overlays = document.querySelectorAll('[id*="onetrust"], [class*="didomi"], [id*="cookie"], [class*="cookie"]');
-                    for (var i = 0; i < overlays.length; i++) elements[i].style.display = 'none';
+                    // 💡 elements -> overlays 로 변수명 수정 완료
+                    for (var i = 0; i < overlays.length; i++) overlays[i].style.display = 'none';
                     document.body.style.overflow = 'auto';
                 """)
                 print("   ✅ 팝업 강제 삭제 완료")
-        except:
-            pass
+        except Exception as e:
+            # 에러가 나면 그냥 넘어가지 않고 로그를 출력하도록 수정
+            print(f"   ⚠️ 팝업 처리 중 에러 발생: {e}")
+            
+            
 
         print("\n🚀 데이터 스캐닝을 시작합니다! (1~34라운드)")
 
