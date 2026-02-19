@@ -7,6 +7,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import os
 
 def crawl_ligue1_perfect_filtered():
     # 1. 브라우저 설정
@@ -184,9 +185,22 @@ def crawl_ligue1_perfect_filtered():
         driver.quit()
         if all_results:
             df = pd.DataFrame(all_results)
-            df.to_csv("Ligue1_2025_Final_Clean.csv", index=False, encoding='utf-8-sig')
+            
+            # 💡 1. 저장할 폴더 이름 설정 (원하는 이름으로 변경 가능)
+            save_folder = "result_csv"
+            
+            # 💡 2. 해당 폴더가 없으면 자동으로 생성
+            if not os.path.exists(save_folder):
+                os.makedirs(save_folder)
+                
+            # 💡 3. 폴더 경로와 파일 이름을 합쳐서 최종 저장 경로 생성
+            file_path = os.path.join(save_folder, "Ligue1_2025_Final_Clean.csv")
+            
+            # 💡 4. 생성된 경로에 CSV 파일 저장
+            df.to_csv(file_path, index=False, encoding='utf-8-sig')
+            
             print("\n" + "="*40)
-            print(f"🎉 성공! 우측 기사가 깔끔하게 제거된 'Ligue1_2025_Final_Clean.csv'가 저장되었습니다.")
+            print(f"🎉 성공! 우측 기사가 제거된 데이터가 '{file_path}'에 저장되었습니다.")
             print(df.head())
         else:
             print("수집된 데이터가 없습니다.")

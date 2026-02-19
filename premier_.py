@@ -8,6 +8,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import os
 
 def crawl_pl_all_matches_auto():
     # 1. 브라우저 설정
@@ -149,9 +150,22 @@ def crawl_pl_all_matches_auto():
         driver.quit()
         if all_results:
             df = pd.DataFrame(all_results)
-            df.to_csv("PL_2025_All_Matches_Auto.csv", index=False, encoding='utf-8-sig')
+            
+            # 1. 저장할 폴더 이름 설정 (리그앙 코드와 동일하게 맞춰줍니다)
+            save_folder = "result_csv"
+            
+            # 2. 해당 폴더가 없으면 자동으로 생성
+            if not os.path.exists(save_folder):
+                os.makedirs(save_folder)
+                
+            # 3. 폴더 경로와 프리미어리그 파일 이름을 합쳐서 최종 저장 경로 생성
+            file_path = os.path.join(save_folder, "PL_2025_All_Matches_Auto.csv")
+            
+            # 4. 생성된 경로에 CSV 파일 저장
+            df.to_csv(file_path, index=False, encoding='utf-8-sig')
+            
             print("\n" + "="*40)
-            print(f"🎉 성공! 'PL_2025_All_Matches_Auto.csv' 파일이 저장되었습니다.")
+            print(f"🎉 성공! 프리미어리그 데이터가 '{file_path}'에 저장되었습니다.")
             print(df.head())
         else:
             print("수집된 데이터가 없습니다.")
