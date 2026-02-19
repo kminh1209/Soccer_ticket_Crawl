@@ -19,8 +19,9 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
+        # 버전 수정
           python-version: '3.12' # 사용하시는 파이썬 버전에 맞춰 수정 가능
-
+            
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
