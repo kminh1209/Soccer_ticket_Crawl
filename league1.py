@@ -10,16 +10,36 @@ from selenium.webdriver.support import expected_conditions as EC
 import os
 
 def crawl_ligue1_perfect_filtered():
-    # 1. 브라우저 설정
+ # 1. 브라우저 설정
     chrome_options = Options()
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-    chrome_options.add_experimental_option("excludeSwitches", ["enable-logging"])
-
-    chrome_options.add_argument("--headless")
     
+    # 💡 1. 구형 헤드리스 대신 '새로운 헤드리스 모드' 사용 (탐지 우회율 대폭 상승)
+    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--window-size=1920,1080")
+    
+    # 💡 2. 완전한 일반 사용자 크롬 브라우저처럼 보이는 User-Agent 설정
+    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+    
+    # 💡 3. "Chrome이 자동화된 테스트 소프트웨어에 의해 제어되고 있습니다" 플래그 및 메시지 숨기기
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
+    chrome_options.add_experimental_option('useAutomationExtension', False)
+    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+    
+    # 💡 4. GitHub Actions (리눅스) 환경 필수 안정화 옵션
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
     service = Service()
     driver = webdriver.Chrome(service=service, options=chrome_options)
+    
+    # 💡 5. 자바스크립트 단에서 'webdriver' 속성을 지워버려서 봇 검사기 속이기 (가장 중요)
+    driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
+        "source": """
+            Object.defineProperty(navigator, 'webdriver', {
+                get: () => undefined
+            })
+        """
+    })
     
     all_results = []
 
