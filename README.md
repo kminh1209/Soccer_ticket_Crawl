@@ -6,6 +6,7 @@
 
 - Premier League
 - League1
+- SerieA
 
 
 ### 매주 월요일과 금요일 (한국)오전 9시에 크롤링 작업이 자동으로 실행된다.
