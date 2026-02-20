@@ -1,4 +1,4 @@
-name: Auto Football Data Crawler
+name: 자동화_축구 리그 경기 일정 크롤링
 
 on:
   schedule:
