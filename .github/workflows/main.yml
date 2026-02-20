@@ -31,6 +31,7 @@ jobs:
         run: |
           python premier_.py
           python league1.py
+          python seriea_.py
 
       - name: Commit and push changes
         env:
