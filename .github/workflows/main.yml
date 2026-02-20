@@ -42,5 +42,14 @@ jobs:
           # result_csv 폴더의 변경사항만 스테이징
           git add result_csv/
           
-          # 변경된 데이터가 있을 때만 커밋 및 푸시
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update crawling results: $(date +'%Y-%m-%d')" && git push)
+          # 💡 if문으로 풀어서 작성 (커밋할 내용이 있는지 확인)
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update crawling results: $(date +'%Y-%m-%d')"
+            
+            # 💡 [핵심 추가] push 하기 전에 깃허브의 최신 코드를 당겨와서(pull) 충돌을 해결합니다.
+            git pull --rebase origin main
+            
+            git push
+          else
+            echo "변경사항이 없어서 커밋하지 않습니다."
+          fi
