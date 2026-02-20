@@ -1,381 +1,381 @@
 ﻿Gameweek,Date,Home,Away,Result/Time
-GW1,"dom, 24 ago | 18:30",GENOA,LECCE,0 - 0
-GW1,"dom, 24 ago | 18:30",SASSUOLO,NAPOLI,0 - 2
-GW1,"dom, 24 ago | 20:45",MILAN,CREMONESE,1 - 2
-GW1,"dom, 24 ago | 20:45",ROMA,BOLOGNA,1 - 0
-GW1,"lun, 25 ago | 18:30",CAGLIARI,FIORENTINA,1 - 1
-GW1,"lun, 25 ago | 18:30",COMO,LAZIO,2 - 0
-GW1,"lun, 25 ago | 20:45",ATALANTA,PISA,1 - 1
-GW1,"lun, 25 ago | 20:45",JUVENTUS,PARMA,2 - 0
-GW1,"mar, 26 ago | 18:30",UDINESE,VERONA,1 - 1
-GW1,"mar, 26 ago | 20:45",INTER,TORINO,5 - 0
-GW2,"sab, 30 ago | 18:30",CREMONESE,SASSUOLO,3 - 2
-GW2,"sab, 30 ago | 20:45",LECCE,MILAN,0 - 2
-GW2,"dom, 31 ago | 18:30",BOLOGNA,COMO,1 - 0
-GW2,"dom, 31 ago | 18:30",PARMA,ATALANTA,1 - 1
-GW2,"dom, 31 ago | 20:45",NAPOLI,CAGLIARI,1 - 0
-GW2,"dom, 31 ago | 20:45",PISA,ROMA,0 - 1
-GW2,"lun, 1 set | 18:30",GENOA,JUVENTUS,0 - 1
-GW2,"lun, 1 set | 18:30",TORINO,FIORENTINA,0 - 0
-GW2,"lun, 1 set | 20:45",INTER,UDINESE,1 - 2
-GW2,"lun, 1 set | 20:45",LAZIO,VERONA,4 - 0
+GW1,"sab, 23 ago | 18:30",GENOA,LECCE,0 - 0
+GW1,"sab, 23 ago | 18:30",SASSUOLO,NAPOLI,0 - 2
+GW1,"sab, 23 ago | 20:45",MILAN,CREMONESE,1 - 2
+GW1,"sab, 23 ago | 20:45",ROMA,BOLOGNA,1 - 0
+GW1,"dom, 24 ago | 18:30",CAGLIARI,FIORENTINA,1 - 1
+GW1,"dom, 24 ago | 18:30",COMO,LAZIO,2 - 0
+GW1,"dom, 24 ago | 20:45",ATALANTA,PISA,1 - 1
+GW1,"dom, 24 ago | 20:45",JUVENTUS,PARMA,2 - 0
+GW1,"lun, 25 ago | 18:30",UDINESE,VERONA,1 - 1
+GW1,"lun, 25 ago | 20:45",INTER,TORINO,5 - 0
+GW2,"ven, 29 ago | 18:30",CREMONESE,SASSUOLO,3 - 2
+GW2,"ven, 29 ago | 20:45",LECCE,MILAN,0 - 2
+GW2,"sab, 30 ago | 18:30",BOLOGNA,COMO,1 - 0
+GW2,"sab, 30 ago | 18:30",PARMA,ATALANTA,1 - 1
+GW2,"sab, 30 ago | 20:45",NAPOLI,CAGLIARI,1 - 0
+GW2,"sab, 30 ago | 20:45",PISA,ROMA,0 - 1
+GW2,"dom, 31 ago | 18:30",GENOA,JUVENTUS,0 - 1
+GW2,"dom, 31 ago | 18:30",TORINO,FIORENTINA,0 - 0
+GW2,"dom, 31 ago | 20:45",INTER,UDINESE,1 - 2
+GW2,"dom, 31 ago | 20:45",LAZIO,VERONA,4 - 0
 GW3,"sab, 13 set | 15:00",CAGLIARI,PARMA,2 - 0
-GW3,"dom, 14 set | 18:00",JUVENTUS,INTER,4 - 3
-GW3,"dom, 14 set | 20:45",FIORENTINA,NAPOLI,1 - 3
+GW3,"sab, 13 set | 18:00",JUVENTUS,INTER,4 - 3
+GW3,"sab, 13 set | 20:45",FIORENTINA,NAPOLI,1 - 3
 GW3,"dom, 14 set | 12:30",ROMA,TORINO,0 - 1
 GW3,"dom, 14 set | 15:00",ATALANTA,LECCE,4 - 1
 GW3,"dom, 14 set | 15:00",PISA,UDINESE,0 - 1
-GW3,"lun, 15 set | 18:00",SASSUOLO,LAZIO,1 - 0
-GW3,"lun, 15 set | 20:45",MILAN,BOLOGNA,1 - 0
-GW3,"mar, 16 set | 18:30",VERONA,CREMONESE,0 - 0
-GW3,"mar, 16 set | 20:45",COMO,GENOA,1 - 1
-GW4,"sab, 20 set | 20:45",LECCE,CAGLIARI,1 - 2
+GW3,"dom, 14 set | 18:00",SASSUOLO,LAZIO,1 - 0
+GW3,"dom, 14 set | 20:45",MILAN,BOLOGNA,1 - 0
+GW3,"lun, 15 set | 18:30",VERONA,CREMONESE,0 - 0
+GW3,"lun, 15 set | 20:45",COMO,GENOA,1 - 1
+GW4,"ven, 19 set | 20:45",LECCE,CAGLIARI,1 - 2
 GW4,"sab, 20 set | 15:00",BOLOGNA,GENOA,2 - 1
-GW4,"dom, 21 set | 18:00",VERONA,JUVENTUS,1 - 1
-GW4,"dom, 21 set | 20:45",UDINESE,MILAN,0 - 3
+GW4,"sab, 20 set | 18:00",VERONA,JUVENTUS,1 - 1
+GW4,"sab, 20 set | 20:45",UDINESE,MILAN,0 - 3
 GW4,"dom, 21 set | 12:30",LAZIO,ROMA,0 - 1
 GW4,"dom, 21 set | 15:00",CREMONESE,PARMA,0 - 0
 GW4,"dom, 21 set | 15:00",TORINO,ATALANTA,0 - 3
-GW4,"lun, 22 set | 18:00",FIORENTINA,COMO,1 - 2
-GW4,"lun, 22 set | 20:45",INTER,SASSUOLO,2 - 1
-GW4,"mar, 23 set | 20:45",NAPOLI,PISA,3 - 2
+GW4,"dom, 21 set | 18:00",FIORENTINA,COMO,1 - 2
+GW4,"dom, 21 set | 20:45",INTER,SASSUOLO,2 - 1
+GW4,"lun, 22 set | 20:45",NAPOLI,PISA,3 - 2
 GW5,"sab, 27 set | 15:00",COMO,CREMONESE,1 - 1
-GW5,"dom, 28 set | 18:00",JUVENTUS,ATALANTA,1 - 1
-GW5,"dom, 28 set | 20:45",CAGLIARI,INTER,0 - 2
+GW5,"sab, 27 set | 18:00",JUVENTUS,ATALANTA,1 - 1
+GW5,"sab, 27 set | 20:45",CAGLIARI,INTER,0 - 2
 GW5,"dom, 28 set | 12:30",SASSUOLO,UDINESE,3 - 1
 GW5,"dom, 28 set | 15:00",PISA,FIORENTINA,0 - 0
 GW5,"dom, 28 set | 15:00",ROMA,VERONA,2 - 0
-GW5,"lun, 29 set | 18:00",LECCE,BOLOGNA,2 - 2
-GW5,"lun, 29 set | 20:45",MILAN,NAPOLI,2 - 1
-GW5,"mar, 30 set | 18:30",PARMA,TORINO,2 - 1
-GW5,"mar, 30 set | 20:45",GENOA,LAZIO,0 - 3
-GW6,"sab, 4 ott | 20:45",VERONA,SASSUOLO,0 - 1
+GW5,"dom, 28 set | 18:00",LECCE,BOLOGNA,2 - 2
+GW5,"dom, 28 set | 20:45",MILAN,NAPOLI,2 - 1
+GW5,"lun, 29 set | 18:30",PARMA,TORINO,2 - 1
+GW5,"lun, 29 set | 20:45",GENOA,LAZIO,0 - 3
+GW6,"ven, 3 ott | 20:45",VERONA,SASSUOLO,0 - 1
 GW6,"sab, 4 ott | 15:00",LAZIO,TORINO,3 - 3
 GW6,"sab, 4 ott | 15:00",PARMA,LECCE,0 - 1
-GW6,"dom, 5 ott | 18:00",INTER,CREMONESE,4 - 1
-GW6,"dom, 5 ott | 20:45",ATALANTA,COMO,1 - 1
+GW6,"sab, 4 ott | 18:00",INTER,CREMONESE,4 - 1
+GW6,"sab, 4 ott | 20:45",ATALANTA,COMO,1 - 1
 GW6,"dom, 5 ott | 12:30",UDINESE,CAGLIARI,1 - 1
 GW6,"dom, 5 ott | 15:00",BOLOGNA,PISA,4 - 0
 GW6,"dom, 5 ott | 15:00",FIORENTINA,ROMA,1 - 2
-GW6,"lun, 6 ott | 18:00",NAPOLI,GENOA,2 - 1
-GW6,"lun, 6 ott | 20:45",JUVENTUS,MILAN,0 - 0
+GW6,"dom, 5 ott | 18:00",NAPOLI,GENOA,2 - 1
+GW6,"dom, 5 ott | 20:45",JUVENTUS,MILAN,0 - 0
 GW7,"sab, 18 ott | 15:00",LECCE,SASSUOLO,0 - 0
 GW7,"sab, 18 ott | 15:00",PISA,VERONA,0 - 0
-GW7,"dom, 19 ott | 18:00",TORINO,NAPOLI,1 - 0
-GW7,"dom, 19 ott | 20:45",ROMA,INTER,0 - 1
+GW7,"sab, 18 ott | 18:00",TORINO,NAPOLI,1 - 0
+GW7,"sab, 18 ott | 20:45",ROMA,INTER,0 - 1
 GW7,"dom, 19 ott | 12:30",COMO,JUVENTUS,2 - 0
 GW7,"dom, 19 ott | 15:00",CAGLIARI,BOLOGNA,0 - 2
 GW7,"dom, 19 ott | 15:00",GENOA,PARMA,0 - 0
-GW7,"lun, 20 ott | 18:00",ATALANTA,LAZIO,0 - 0
-GW7,"lun, 20 ott | 20:45",MILAN,FIORENTINA,2 - 1
-GW7,"mar, 21 ott | 20:45",CREMONESE,UDINESE,1 - 1
-GW8,"sab, 25 ott | 20:45",MILAN,PISA,2 - 2
+GW7,"dom, 19 ott | 18:00",ATALANTA,LAZIO,0 - 0
+GW7,"dom, 19 ott | 20:45",MILAN,FIORENTINA,2 - 1
+GW7,"lun, 20 ott | 20:45",CREMONESE,UDINESE,1 - 1
+GW8,"ven, 24 ott | 20:45",MILAN,PISA,2 - 2
 GW8,"sab, 25 ott | 15:00",PARMA,COMO,0 - 0
 GW8,"sab, 25 ott | 15:00",UDINESE,LECCE,3 - 2
-GW8,"dom, 26 ott | 18:00",NAPOLI,INTER,3 - 1
-GW8,"dom, 26 ott | 20:45",CREMONESE,ATALANTA,1 - 1
+GW8,"sab, 25 ott | 18:00",NAPOLI,INTER,3 - 1
+GW8,"sab, 25 ott | 20:45",CREMONESE,ATALANTA,1 - 1
 GW8,"dom, 26 ott | 12:30",TORINO,GENOA,2 - 1
 GW8,"dom, 26 ott | 15:00",SASSUOLO,ROMA,0 - 1
 GW8,"dom, 26 ott | 15:00",VERONA,CAGLIARI,2 - 2
-GW8,"lun, 27 ott | 18:00",FIORENTINA,BOLOGNA,2 - 2
-GW8,"lun, 27 ott | 20:45",LAZIO,JUVENTUS,1 - 0
-GW9,"mer, 29 ott | 18:30",LECCE,NAPOLI,0 - 1
-GW9,"mer, 29 ott | 20:45",ATALANTA,MILAN,1 - 1
-GW9,"gio, 30 ott | 18:30",COMO,VERONA,3 - 1
-GW9,"gio, 30 ott | 18:30",JUVENTUS,UDINESE,3 - 1
-GW9,"gio, 30 ott | 18:30",ROMA,PARMA,2 - 1
-GW9,"gio, 30 ott | 20:45",BOLOGNA,TORINO,0 - 0
-GW9,"gio, 30 ott | 20:45",GENOA,CREMONESE,0 - 2
-GW9,"gio, 30 ott | 20:45",INTER,FIORENTINA,3 - 0
-GW9,"ven, 31 ott | 18:30",CAGLIARI,SASSUOLO,1 - 2
-GW9,"ven, 31 ott | 20:45",PISA,LAZIO,0 - 0
+GW8,"dom, 26 ott | 18:00",FIORENTINA,BOLOGNA,2 - 2
+GW8,"dom, 26 ott | 20:45",LAZIO,JUVENTUS,1 - 0
+GW9,"mar, 28 ott | 18:30",LECCE,NAPOLI,0 - 1
+GW9,"mar, 28 ott | 20:45",ATALANTA,MILAN,1 - 1
+GW9,"mer, 29 ott | 18:30",COMO,VERONA,3 - 1
+GW9,"mer, 29 ott | 18:30",JUVENTUS,UDINESE,3 - 1
+GW9,"mer, 29 ott | 18:30",ROMA,PARMA,2 - 1
+GW9,"mer, 29 ott | 20:45",BOLOGNA,TORINO,0 - 0
+GW9,"mer, 29 ott | 20:45",GENOA,CREMONESE,0 - 2
+GW9,"mer, 29 ott | 20:45",INTER,FIORENTINA,3 - 0
+GW9,"gio, 30 ott | 18:30",CAGLIARI,SASSUOLO,1 - 2
+GW9,"gio, 30 ott | 20:45",PISA,LAZIO,0 - 0
 GW10,"sab, 1 nov | 15:00",UDINESE,ATALANTA,1 - 0
-GW10,"dom, 2 nov | 18:00",NAPOLI,COMO,0 - 0
-GW10,"dom, 2 nov | 20:45",CREMONESE,JUVENTUS,1 - 2
+GW10,"sab, 1 nov | 18:00",NAPOLI,COMO,0 - 0
+GW10,"sab, 1 nov | 20:45",CREMONESE,JUVENTUS,1 - 2
 GW10,"dom, 2 nov | 12:30",VERONA,INTER,1 - 2
 GW10,"dom, 2 nov | 15:00",FIORENTINA,LECCE,0 - 1
 GW10,"dom, 2 nov | 15:00",TORINO,PISA,2 - 2
-GW10,"lun, 3 nov | 18:00",PARMA,BOLOGNA,1 - 3
-GW10,"lun, 3 nov | 20:45",MILAN,ROMA,1 - 0
-GW10,"mar, 4 nov | 18:30",SASSUOLO,GENOA,1 - 2
-GW10,"mar, 4 nov | 20:45",LAZIO,CAGLIARI,2 - 0
-GW11,"sab, 8 nov | 20:45",PISA,CREMONESE,1 - 0
+GW10,"dom, 2 nov | 18:00",PARMA,BOLOGNA,1 - 3
+GW10,"dom, 2 nov | 20:45",MILAN,ROMA,1 - 0
+GW10,"lun, 3 nov | 18:30",SASSUOLO,GENOA,1 - 2
+GW10,"lun, 3 nov | 20:45",LAZIO,CAGLIARI,2 - 0
+GW11,"ven, 7 nov | 20:45",PISA,CREMONESE,1 - 0
 GW11,"sab, 8 nov | 15:00",COMO,CAGLIARI,0 - 0
 GW11,"sab, 8 nov | 15:00",LECCE,VERONA,0 - 0
-GW11,"dom, 9 nov | 18:00",JUVENTUS,TORINO,0 - 0
-GW11,"dom, 9 nov | 20:45",PARMA,MILAN,2 - 2
+GW11,"sab, 8 nov | 18:00",JUVENTUS,TORINO,0 - 0
+GW11,"sab, 8 nov | 20:45",PARMA,MILAN,2 - 2
 GW11,"dom, 9 nov | 12:30",ATALANTA,SASSUOLO,0 - 3
 GW11,"dom, 9 nov | 15:00",BOLOGNA,NAPOLI,2 - 0
 GW11,"dom, 9 nov | 15:00",GENOA,FIORENTINA,2 - 2
-GW11,"lun, 10 nov | 18:00",ROMA,UDINESE,2 - 0
-GW11,"lun, 10 nov | 20:45",INTER,LAZIO,2 - 0
+GW11,"dom, 9 nov | 18:00",ROMA,UDINESE,2 - 0
+GW11,"dom, 9 nov | 20:45",INTER,LAZIO,2 - 0
 GW12,"sab, 22 nov | 15:00",CAGLIARI,GENOA,3 - 3
 GW12,"sab, 22 nov | 15:00",UDINESE,BOLOGNA,0 - 3
-GW12,"dom, 23 nov | 18:00",FIORENTINA,JUVENTUS,1 - 1
-GW12,"dom, 23 nov | 20:45",NAPOLI,ATALANTA,3 - 1
+GW12,"sab, 22 nov | 18:00",FIORENTINA,JUVENTUS,1 - 1
+GW12,"sab, 22 nov | 20:45",NAPOLI,ATALANTA,3 - 1
 GW12,"dom, 23 nov | 12:30",VERONA,PARMA,1 - 2
 GW12,"dom, 23 nov | 15:00",CREMONESE,ROMA,1 - 3
-GW12,"lun, 24 nov | 18:00",LAZIO,LECCE,2 - 0
-GW12,"lun, 24 nov | 20:45",INTER,MILAN,0 - 1
-GW12,"mar, 25 nov | 18:30",TORINO,COMO,1 - 5
-GW12,"mar, 25 nov | 20:45",SASSUOLO,PISA,2 - 2
-GW13,"sab, 29 nov | 20:45",COMO,SASSUOLO,2 - 0
+GW12,"dom, 23 nov | 18:00",LAZIO,LECCE,2 - 0
+GW12,"dom, 23 nov | 20:45",INTER,MILAN,0 - 1
+GW12,"lun, 24 nov | 18:30",TORINO,COMO,1 - 5
+GW12,"lun, 24 nov | 20:45",SASSUOLO,PISA,2 - 2
+GW13,"ven, 28 nov | 20:45",COMO,SASSUOLO,2 - 0
 GW13,"sab, 29 nov | 15:00",GENOA,VERONA,2 - 1
 GW13,"sab, 29 nov | 15:00",PARMA,UDINESE,0 - 2
-GW13,"dom, 30 nov | 18:00",JUVENTUS,CAGLIARI,2 - 1
-GW13,"dom, 30 nov | 20:45",MILAN,LAZIO,1 - 0
+GW13,"sab, 29 nov | 18:00",JUVENTUS,CAGLIARI,2 - 1
+GW13,"sab, 29 nov | 20:45",MILAN,LAZIO,1 - 0
 GW13,"dom, 30 nov | 12:30",LECCE,TORINO,2 - 1
 GW13,"dom, 30 nov | 15:00",PISA,INTER,0 - 2
-GW13,"lun, 1 dic | 18:00",ATALANTA,FIORENTINA,2 - 0
-GW13,"lun, 1 dic | 20:45",ROMA,NAPOLI,0 - 1
-GW13,"mar, 2 dic | 20:45",BOLOGNA,CREMONESE,1 - 3
+GW13,"dom, 30 nov | 18:00",ATALANTA,FIORENTINA,2 - 0
+GW13,"dom, 30 nov | 20:45",ROMA,NAPOLI,0 - 1
+GW13,"lun, 1 dic | 20:45",BOLOGNA,CREMONESE,1 - 3
 GW14,"sab, 6 dic | 15:00",SASSUOLO,FIORENTINA,3 - 1
-GW14,"dom, 7 dic | 18:00",INTER,COMO,4 - 0
-GW14,"dom, 7 dic | 20:45",VERONA,ATALANTA,3 - 1
+GW14,"sab, 6 dic | 18:00",INTER,COMO,4 - 0
+GW14,"sab, 6 dic | 20:45",VERONA,ATALANTA,3 - 1
 GW14,"dom, 7 dic | 12:30",CREMONESE,LECCE,2 - 0
 GW14,"dom, 7 dic | 15:00",CAGLIARI,ROMA,1 - 0
-GW14,"lun, 8 dic | 18:00",LAZIO,BOLOGNA,1 - 1
-GW14,"lun, 8 dic | 20:45",NAPOLI,JUVENTUS,2 - 1
+GW14,"dom, 7 dic | 18:00",LAZIO,BOLOGNA,1 - 1
+GW14,"dom, 7 dic | 20:45",NAPOLI,JUVENTUS,2 - 1
 GW14,"lun, 8 dic | 15:00",PISA,PARMA,0 - 1
-GW14,"mar, 9 dic | 18:00",UDINESE,GENOA,1 - 2
-GW14,"mar, 9 dic | 20:45",TORINO,MILAN,2 - 3
-GW15,"sab, 13 dic | 20:45",LECCE,PISA,1 - 0
+GW14,"lun, 8 dic | 18:00",UDINESE,GENOA,1 - 2
+GW14,"lun, 8 dic | 20:45",TORINO,MILAN,2 - 3
+GW15,"ven, 12 dic | 20:45",LECCE,PISA,1 - 0
 GW15,"sab, 13 dic | 15:00",TORINO,CREMONESE,1 - 0
-GW15,"dom, 14 dic | 18:00",PARMA,LAZIO,0 - 1
-GW15,"dom, 14 dic | 20:45",ATALANTA,CAGLIARI,2 - 1
+GW15,"sab, 13 dic | 18:00",PARMA,LAZIO,0 - 1
+GW15,"sab, 13 dic | 20:45",ATALANTA,CAGLIARI,2 - 1
 GW15,"dom, 14 dic | 12:30",MILAN,SASSUOLO,2 - 2
 GW15,"dom, 14 dic | 15:00",FIORENTINA,VERONA,1 - 2
 GW15,"dom, 14 dic | 15:00",UDINESE,NAPOLI,1 - 0
-GW15,"lun, 15 dic | 18:00",GENOA,INTER,1 - 2
-GW15,"lun, 15 dic | 20:45",BOLOGNA,JUVENTUS,0 - 1
-GW15,"mar, 16 dic | 20:45",ROMA,COMO,1 - 0
-GW16,"dom, 21 dic | 18:00",LAZIO,CREMONESE,0 - 0
-GW16,"dom, 21 dic | 20:45",JUVENTUS,ROMA,2 - 1
+GW15,"dom, 14 dic | 18:00",GENOA,INTER,1 - 2
+GW15,"dom, 14 dic | 20:45",BOLOGNA,JUVENTUS,0 - 1
+GW15,"lun, 15 dic | 20:45",ROMA,COMO,1 - 0
+GW16,"sab, 20 dic | 18:00",LAZIO,CREMONESE,0 - 0
+GW16,"sab, 20 dic | 20:45",JUVENTUS,ROMA,2 - 1
 GW16,"dom, 21 dic | 12:30",CAGLIARI,PISA,2 - 2
 GW16,"dom, 21 dic | 15:00",SASSUOLO,TORINO,0 - 1
-GW16,"lun, 22 dic | 18:00",FIORENTINA,UDINESE,5 - 1
-GW16,"lun, 22 dic | 20:45",GENOA,ATALANTA,0 - 1
-GW16,"gio, 15 gen | 18:30",NAPOLI,PARMA,0 - 0
-GW16,"gio, 15 gen | 20:45",INTER,LECCE,1 - 0
-GW16,"ven, 16 gen | 18:30",VERONA,BOLOGNA,2 - 3
-GW16,"ven, 16 gen | 20:45",COMO,MILAN,1 - 3
+GW16,"dom, 21 dic | 18:00",FIORENTINA,UDINESE,5 - 1
+GW16,"dom, 21 dic | 20:45",GENOA,ATALANTA,0 - 1
+GW16,"mer, 14 gen | 18:30",NAPOLI,PARMA,0 - 0
+GW16,"mer, 14 gen | 20:45",INTER,LECCE,1 - 0
+GW16,"gio, 15 gen | 18:30",VERONA,BOLOGNA,2 - 3
+GW16,"gio, 15 gen | 20:45",COMO,MILAN,1 - 3
 GW17,"sab, 27 dic | 12:30",PARMA,FIORENTINA,1 - 0
 GW17,"sab, 27 dic | 15:00",LECCE,COMO,0 - 3
 GW17,"sab, 27 dic | 15:00",TORINO,CAGLIARI,1 - 2
-GW17,"dom, 28 dic | 18:00",UDINESE,LAZIO,1 - 1
-GW17,"dom, 28 dic | 20:45",PISA,JUVENTUS,0 - 2
+GW17,"sab, 27 dic | 18:00",UDINESE,LAZIO,1 - 1
+GW17,"sab, 27 dic | 20:45",PISA,JUVENTUS,0 - 2
 GW17,"dom, 28 dic | 12:30",MILAN,VERONA,3 - 0
 GW17,"dom, 28 dic | 15:00",CREMONESE,NAPOLI,0 - 2
-GW17,"lun, 29 dic | 18:00",BOLOGNA,SASSUOLO,1 - 1
-GW17,"lun, 29 dic | 20:45",ATALANTA,INTER,0 - 1
-GW17,"mar, 30 dic | 20:45",ROMA,GENOA,3 - 1
-GW18,"sab, 3 gen | 20:45",CAGLIARI,MILAN,0 - 1
+GW17,"dom, 28 dic | 18:00",BOLOGNA,SASSUOLO,1 - 1
+GW17,"dom, 28 dic | 20:45",ATALANTA,INTER,0 - 1
+GW17,"lun, 29 dic | 20:45",ROMA,GENOA,3 - 1
+GW18,"ven, 2 gen | 20:45",CAGLIARI,MILAN,0 - 1
 GW18,"sab, 3 gen | 12:30",COMO,UDINESE,1 - 0
 GW18,"sab, 3 gen | 15:00",GENOA,PISA,1 - 1
 GW18,"sab, 3 gen | 15:00",SASSUOLO,PARMA,1 - 1
-GW18,"dom, 4 gen | 18:00",JUVENTUS,LECCE,1 - 1
-GW18,"dom, 4 gen | 20:45",ATALANTA,ROMA,1 - 0
+GW18,"sab, 3 gen | 18:00",JUVENTUS,LECCE,1 - 1
+GW18,"sab, 3 gen | 20:45",ATALANTA,ROMA,1 - 0
 GW18,"dom, 4 gen | 12:30",LAZIO,NAPOLI,0 - 2
 GW18,"dom, 4 gen | 15:00",FIORENTINA,CREMONESE,1 - 0
-GW18,"lun, 5 gen | 18:00",VERONA,TORINO,0 - 3
-GW18,"lun, 5 gen | 20:45",INTER,BOLOGNA,3 - 1
+GW18,"dom, 4 gen | 18:00",VERONA,TORINO,0 - 3
+GW18,"dom, 4 gen | 20:45",INTER,BOLOGNA,3 - 1
 GW19,"mar, 6 gen | 15:00",PISA,COMO,0 - 3
-GW19,"mer, 7 gen | 18:00",LECCE,ROMA,0 - 2
-GW19,"mer, 7 gen | 20:45",SASSUOLO,JUVENTUS,0 - 3
-GW19,"gio, 8 gen | 18:30",BOLOGNA,ATALANTA,0 - 2
-GW19,"gio, 8 gen | 18:30",NAPOLI,VERONA,2 - 2
-GW19,"gio, 8 gen | 20:45",LAZIO,FIORENTINA,2 - 2
-GW19,"gio, 8 gen | 20:45",PARMA,INTER,0 - 2
-GW19,"gio, 8 gen | 20:45",TORINO,UDINESE,1 - 2
-GW19,"ven, 9 gen | 18:30",CREMONESE,CAGLIARI,2 - 2
-GW19,"ven, 9 gen | 20:45",MILAN,GENOA,1 - 1
+GW19,"mar, 6 gen | 18:00",LECCE,ROMA,0 - 2
+GW19,"mar, 6 gen | 20:45",SASSUOLO,JUVENTUS,0 - 3
+GW19,"mer, 7 gen | 18:30",BOLOGNA,ATALANTA,0 - 2
+GW19,"mer, 7 gen | 18:30",NAPOLI,VERONA,2 - 2
+GW19,"mer, 7 gen | 20:45",LAZIO,FIORENTINA,2 - 2
+GW19,"mer, 7 gen | 20:45",PARMA,INTER,0 - 2
+GW19,"mer, 7 gen | 20:45",TORINO,UDINESE,1 - 2
+GW19,"gio, 8 gen | 18:30",CREMONESE,CAGLIARI,2 - 2
+GW19,"gio, 8 gen | 20:45",MILAN,GENOA,1 - 1
 GW20,"sab, 10 gen | 15:00",COMO,BOLOGNA,1 - 1
 GW20,"sab, 10 gen | 15:00",UDINESE,PISA,2 - 2
-GW20,"dom, 11 gen | 18:00",ROMA,SASSUOLO,2 - 0
-GW20,"dom, 11 gen | 20:45",ATALANTA,TORINO,2 - 0
+GW20,"sab, 10 gen | 18:00",ROMA,SASSUOLO,2 - 0
+GW20,"sab, 10 gen | 20:45",ATALANTA,TORINO,2 - 0
 GW20,"dom, 11 gen | 12:30",LECCE,PARMA,1 - 2
 GW20,"dom, 11 gen | 15:00",FIORENTINA,MILAN,1 - 1
-GW20,"lun, 12 gen | 18:00",VERONA,LAZIO,0 - 1
-GW20,"lun, 12 gen | 20:45",INTER,NAPOLI,2 - 2
-GW20,"mar, 13 gen | 18:30",GENOA,CAGLIARI,3 - 0
-GW20,"mar, 13 gen | 20:45",JUVENTUS,CREMONESE,5 - 0
-GW21,"sab, 17 gen | 20:45",PISA,ATALANTA,1 - 1
+GW20,"dom, 11 gen | 18:00",VERONA,LAZIO,0 - 1
+GW20,"dom, 11 gen | 20:45",INTER,NAPOLI,2 - 2
+GW20,"lun, 12 gen | 18:30",GENOA,CAGLIARI,3 - 0
+GW20,"lun, 12 gen | 20:45",JUVENTUS,CREMONESE,5 - 0
+GW21,"ven, 16 gen | 20:45",PISA,ATALANTA,1 - 1
 GW21,"sab, 17 gen | 15:00",UDINESE,INTER,0 - 1
-GW21,"dom, 18 gen | 18:00",NAPOLI,SASSUOLO,1 - 0
-GW21,"dom, 18 gen | 20:45",CAGLIARI,JUVENTUS,1 - 0
+GW21,"sab, 17 gen | 18:00",NAPOLI,SASSUOLO,1 - 0
+GW21,"sab, 17 gen | 20:45",CAGLIARI,JUVENTUS,1 - 0
 GW21,"dom, 18 gen | 12:30",PARMA,GENOA,0 - 0
 GW21,"dom, 18 gen | 15:00",BOLOGNA,FIORENTINA,1 - 2
-GW21,"lun, 19 gen | 18:00",TORINO,ROMA,0 - 2
-GW21,"lun, 19 gen | 20:45",MILAN,LECCE,1 - 0
-GW21,"mar, 20 gen | 18:30",CREMONESE,VERONA,0 - 0
-GW21,"mar, 20 gen | 20:45",LAZIO,COMO,0 - 3
-GW22,"sab, 24 gen | 20:45",INTER,PISA,6 - 2
+GW21,"dom, 18 gen | 18:00",TORINO,ROMA,0 - 2
+GW21,"dom, 18 gen | 20:45",MILAN,LECCE,1 - 0
+GW21,"lun, 19 gen | 18:30",CREMONESE,VERONA,0 - 0
+GW21,"lun, 19 gen | 20:45",LAZIO,COMO,0 - 3
+GW22,"ven, 23 gen | 20:45",INTER,PISA,6 - 2
 GW22,"sab, 24 gen | 15:00",COMO,TORINO,6 - 0
-GW22,"dom, 25 gen | 18:00",FIORENTINA,CAGLIARI,1 - 2
-GW22,"dom, 25 gen | 20:45",LECCE,LAZIO,0 - 0
+GW22,"sab, 24 gen | 18:00",FIORENTINA,CAGLIARI,1 - 2
+GW22,"sab, 24 gen | 20:45",LECCE,LAZIO,0 - 0
 GW22,"dom, 25 gen | 12:30",SASSUOLO,CREMONESE,1 - 0
 GW22,"dom, 25 gen | 15:00",ATALANTA,PARMA,4 - 0
 GW22,"dom, 25 gen | 15:00",GENOA,BOLOGNA,3 - 2
-GW22,"lun, 26 gen | 18:00",JUVENTUS,NAPOLI,3 - 0
-GW22,"lun, 26 gen | 20:45",ROMA,MILAN,1 - 1
-GW22,"mar, 27 gen | 20:45",VERONA,UDINESE,1 - 3
-GW23,"sab, 31 gen | 20:45",LAZIO,GENOA,3 - 2
+GW22,"dom, 25 gen | 18:00",JUVENTUS,NAPOLI,3 - 0
+GW22,"dom, 25 gen | 20:45",ROMA,MILAN,1 - 1
+GW22,"lun, 26 gen | 20:45",VERONA,UDINESE,1 - 3
+GW23,"ven, 30 gen | 20:45",LAZIO,GENOA,3 - 2
 GW23,"sab, 31 gen | 15:00",PISA,SASSUOLO,1 - 3
-GW23,"dom, 1 feb | 18:00",NAPOLI,FIORENTINA,2 - 1
-GW23,"dom, 1 feb | 20:45",CAGLIARI,VERONA,4 - 0
+GW23,"sab, 31 gen | 18:00",NAPOLI,FIORENTINA,2 - 1
+GW23,"sab, 31 gen | 20:45",CAGLIARI,VERONA,4 - 0
 GW23,"dom, 1 feb | 12:30",TORINO,LECCE,1 - 0
 GW23,"dom, 1 feb | 15:00",COMO,ATALANTA,0 - 0
-GW23,"lun, 2 feb | 18:00",CREMONESE,INTER,0 - 2
-GW23,"lun, 2 feb | 20:45",PARMA,JUVENTUS,1 - 4
-GW23,"mar, 3 feb | 20:45",UDINESE,ROMA,1 - 0
-GW23,"mer, 4 feb | 20:45",BOLOGNA,MILAN,0 - 3
-GW24,"sab, 7 feb | 20:45",VERONA,PISA,0 - 0
-GW24,"dom, 8 feb | 18:00",GENOA,NAPOLI,2 - 3
-GW24,"dom, 8 feb | 20:45",FIORENTINA,TORINO,2 - 2
+GW23,"dom, 1 feb | 18:00",CREMONESE,INTER,0 - 2
+GW23,"dom, 1 feb | 20:45",PARMA,JUVENTUS,1 - 4
+GW23,"lun, 2 feb | 20:45",UDINESE,ROMA,1 - 0
+GW23,"mar, 3 feb | 20:45",BOLOGNA,MILAN,0 - 3
+GW24,"ven, 6 feb | 20:45",VERONA,PISA,0 - 0
+GW24,"sab, 7 feb | 18:00",GENOA,NAPOLI,2 - 3
+GW24,"sab, 7 feb | 20:45",FIORENTINA,TORINO,2 - 2
 GW24,"dom, 8 feb | 12:30",BOLOGNA,PARMA,0 - 1
 GW24,"dom, 8 feb | 15:00",LECCE,UDINESE,2 - 1
-GW24,"lun, 9 feb | 18:00",SASSUOLO,INTER,0 - 5
-GW24,"lun, 9 feb | 20:45",JUVENTUS,LAZIO,2 - 2
-GW24,"mar, 10 feb | 18:30",ATALANTA,CREMONESE,2 - 1
-GW24,"mar, 10 feb | 20:45",ROMA,CAGLIARI,2 - 0
-GW24,"gio, 19 feb | 20:45",MILAN,COMO,1 - 1
-GW25,"sab, 14 feb | 20:45",PISA,MILAN,1 - 2
+GW24,"dom, 8 feb | 18:00",SASSUOLO,INTER,0 - 5
+GW24,"dom, 8 feb | 20:45",JUVENTUS,LAZIO,2 - 2
+GW24,"lun, 9 feb | 18:30",ATALANTA,CREMONESE,2 - 1
+GW24,"lun, 9 feb | 20:45",ROMA,CAGLIARI,2 - 0
+GW24,"mer, 18 feb | 20:45",MILAN,COMO,1 - 1
+GW25,"ven, 13 feb | 20:45",PISA,MILAN,1 - 2
 GW25,"sab, 14 feb | 15:00",COMO,FIORENTINA,1 - 2
-GW25,"dom, 15 feb | 18:00",LAZIO,ATALANTA,0 - 2
-GW25,"dom, 15 feb | 20:45",INTER,JUVENTUS,3 - 2
+GW25,"sab, 14 feb | 18:00",LAZIO,ATALANTA,0 - 2
+GW25,"sab, 14 feb | 20:45",INTER,JUVENTUS,3 - 2
 GW25,"dom, 15 feb | 12:30",UDINESE,SASSUOLO,1 - 2
 GW25,"dom, 15 feb | 15:00",CREMONESE,GENOA,0 - 0
 GW25,"dom, 15 feb | 15:00",PARMA,VERONA,2 - 1
-GW25,"lun, 16 feb | 18:00",TORINO,BOLOGNA,1 - 2
-GW25,"lun, 16 feb | 20:45",NAPOLI,ROMA,2 - 2
-GW25,"mar, 17 feb | 20:45",CAGLIARI,LECCE,0 - 2
-GW26,"sab, 21 feb | 04:45",SASSUOLO,VERONA,--
-GW26,"sab, 21 feb | 23:00",JUVENTUS,COMO,--
-GW26,"dom, 22 feb | 02:00",LECCE,INTER,--
-GW26,"dom, 22 feb | 04:45",CAGLIARI,LAZIO,--
-GW26,"dom, 22 feb | 20:30",GENOA,TORINO,--
-GW26,"dom, 22 feb | 23:00",ATALANTA,NAPOLI,--
-GW26,"lun, 23 feb | 02:00",MILAN,PARMA,--
-GW26,"lun, 23 feb | 04:45",ROMA,CREMONESE,--
-GW26,"mar, 24 feb | 02:30",FIORENTINA,PISA,--
-GW26,"mar, 24 feb | 04:45",BOLOGNA,UDINESE,--
-GW27,"sab, 28 feb | 04:45",PARMA,CAGLIARI,--
-GW27,"sab, 28 feb | 23:00",COMO,LECCE,--
-GW27,"dom, 1 mar | 02:00",VERONA,NAPOLI,--
-GW27,"dom, 1 mar | 04:45",INTER,GENOA,--
-GW27,"dom, 1 mar | 20:30",CREMONESE,MILAN,--
-GW27,"dom, 1 mar | 23:00",SASSUOLO,ATALANTA,--
-GW27,"lun, 2 mar | 02:00",TORINO,LAZIO,--
-GW27,"lun, 2 mar | 04:45",ROMA,JUVENTUS,--
-GW27,"mar, 3 mar | 02:30",PISA,BOLOGNA,--
-GW27,"mar, 3 mar | 04:45",UDINESE,FIORENTINA,--
-GW28,"dom, 8 mar | 23:00",ATALANTA,UDINESE,--
-GW28,"dom, 8 mar | 23:00",BOLOGNA,VERONA,--
-GW28,"dom, 8 mar | 23:00",CAGLIARI,COMO,--
-GW28,"dom, 8 mar | 23:00",FIORENTINA,PARMA,--
-GW28,"dom, 8 mar | 23:00",GENOA,ROMA,--
-GW28,"dom, 8 mar | 23:00",JUVENTUS,PISA,--
-GW28,"dom, 8 mar | 23:00",LAZIO,SASSUOLO,--
-GW28,"dom, 8 mar | 23:00",LECCE,CREMONESE,--
-GW28,"dom, 8 mar | 23:00",MILAN,INTER,--
-GW28,"dom, 8 mar | 23:00",NAPOLI,TORINO,--
-GW29,"dom, 15 mar | 23:00",COMO,ROMA,--
-GW29,"dom, 15 mar | 23:00",CREMONESE,FIORENTINA,--
-GW29,"dom, 15 mar | 23:00",INTER,ATALANTA,--
-GW29,"dom, 15 mar | 23:00",LAZIO,MILAN,--
-GW29,"dom, 15 mar | 23:00",NAPOLI,LECCE,--
-GW29,"dom, 15 mar | 23:00",PISA,CAGLIARI,--
-GW29,"dom, 15 mar | 23:00",SASSUOLO,BOLOGNA,--
-GW29,"dom, 15 mar | 23:00",TORINO,PARMA,--
-GW29,"dom, 15 mar | 23:00",UDINESE,JUVENTUS,--
-GW29,"dom, 15 mar | 23:00",VERONA,GENOA,--
-GW30,"dom, 22 mar | 23:00",ATALANTA,VERONA,--
-GW30,"dom, 22 mar | 23:00",BOLOGNA,LAZIO,--
-GW30,"dom, 22 mar | 23:00",CAGLIARI,NAPOLI,--
-GW30,"dom, 22 mar | 23:00",COMO,PISA,--
-GW30,"dom, 22 mar | 23:00",FIORENTINA,INTER,--
-GW30,"dom, 22 mar | 23:00",GENOA,UDINESE,--
-GW30,"dom, 22 mar | 23:00",JUVENTUS,SASSUOLO,--
-GW30,"dom, 22 mar | 23:00",MILAN,TORINO,--
-GW30,"dom, 22 mar | 23:00",PARMA,CREMONESE,--
-GW30,"dom, 22 mar | 23:00",ROMA,LECCE,--
-GW31,"sab, 4 apr | 22:00",CREMONESE,BOLOGNA,--
-GW31,"sab, 4 apr | 22:00",INTER,ROMA,--
-GW31,"sab, 4 apr | 22:00",JUVENTUS,GENOA,--
-GW31,"sab, 4 apr | 22:00",LAZIO,PARMA,--
-GW31,"sab, 4 apr | 22:00",LECCE,ATALANTA,--
-GW31,"sab, 4 apr | 22:00",NAPOLI,MILAN,--
-GW31,"sab, 4 apr | 22:00",PISA,TORINO,--
-GW31,"sab, 4 apr | 22:00",SASSUOLO,CAGLIARI,--
-GW31,"sab, 4 apr | 22:00",UDINESE,COMO,--
-GW31,"sab, 4 apr | 22:00",VERONA,FIORENTINA,--
-GW32,"dom, 12 apr | 22:00",ATALANTA,JUVENTUS,--
-GW32,"dom, 12 apr | 22:00",BOLOGNA,LECCE,--
-GW32,"dom, 12 apr | 22:00",CAGLIARI,CREMONESE,--
-GW32,"dom, 12 apr | 22:00",COMO,INTER,--
-GW32,"dom, 12 apr | 22:00",FIORENTINA,LAZIO,--
-GW32,"dom, 12 apr | 22:00",GENOA,SASSUOLO,--
-GW32,"dom, 12 apr | 22:00",MILAN,UDINESE,--
-GW32,"dom, 12 apr | 22:00",PARMA,NAPOLI,--
-GW32,"dom, 12 apr | 22:00",ROMA,PISA,--
-GW32,"dom, 12 apr | 22:00",TORINO,VERONA,--
-GW33,"dom, 19 apr | 22:00",CREMONESE,TORINO,--
-GW33,"dom, 19 apr | 22:00",INTER,CAGLIARI,--
-GW33,"dom, 19 apr | 22:00",JUVENTUS,BOLOGNA,--
-GW33,"dom, 19 apr | 22:00",LECCE,FIORENTINA,--
-GW33,"dom, 19 apr | 22:00",NAPOLI,LAZIO,--
-GW33,"dom, 19 apr | 22:00",PISA,GENOA,--
-GW33,"dom, 19 apr | 22:00",ROMA,ATALANTA,--
-GW33,"dom, 19 apr | 22:00",SASSUOLO,COMO,--
-GW33,"dom, 19 apr | 22:00",UDINESE,PARMA,--
-GW33,"dom, 19 apr | 22:00",VERONA,MILAN,--
-GW34,"dom, 26 apr | 22:00",BOLOGNA,ROMA,--
-GW34,"dom, 26 apr | 22:00",CAGLIARI,ATALANTA,--
-GW34,"dom, 26 apr | 22:00",FIORENTINA,SASSUOLO,--
-GW34,"dom, 26 apr | 22:00",GENOA,COMO,--
-GW34,"dom, 26 apr | 22:00",LAZIO,UDINESE,--
-GW34,"dom, 26 apr | 22:00",MILAN,JUVENTUS,--
-GW34,"dom, 26 apr | 22:00",NAPOLI,CREMONESE,--
-GW34,"dom, 26 apr | 22:00",PARMA,PISA,--
-GW34,"dom, 26 apr | 22:00",TORINO,INTER,--
-GW34,"dom, 26 apr | 22:00",VERONA,LECCE,--
-GW35,"dom, 3 mag | 22:00",ATALANTA,GENOA,--
-GW35,"dom, 3 mag | 22:00",BOLOGNA,CAGLIARI,--
-GW35,"dom, 3 mag | 22:00",COMO,NAPOLI,--
-GW35,"dom, 3 mag | 22:00",CREMONESE,LAZIO,--
-GW35,"dom, 3 mag | 22:00",INTER,PARMA,--
-GW35,"dom, 3 mag | 22:00",JUVENTUS,VERONA,--
-GW35,"dom, 3 mag | 22:00",PISA,LECCE,--
-GW35,"dom, 3 mag | 22:00",ROMA,FIORENTINA,--
-GW35,"dom, 3 mag | 22:00",SASSUOLO,MILAN,--
-GW35,"dom, 3 mag | 22:00",UDINESE,TORINO,--
-GW36,"dom, 10 mag | 22:00",CAGLIARI,UDINESE,--
-GW36,"dom, 10 mag | 22:00",CREMONESE,PISA,--
-GW36,"dom, 10 mag | 22:00",FIORENTINA,GENOA,--
-GW36,"dom, 10 mag | 22:00",LAZIO,INTER,--
-GW36,"dom, 10 mag | 22:00",LECCE,JUVENTUS,--
-GW36,"dom, 10 mag | 22:00",MILAN,ATALANTA,--
-GW36,"dom, 10 mag | 22:00",NAPOLI,BOLOGNA,--
-GW36,"dom, 10 mag | 22:00",PARMA,ROMA,--
-GW36,"dom, 10 mag | 22:00",TORINO,SASSUOLO,--
-GW36,"dom, 10 mag | 22:00",VERONA,COMO,--
-GW37,"dom, 17 mag | 22:00",ATALANTA,BOLOGNA,--
-GW37,"dom, 17 mag | 22:00",CAGLIARI,TORINO,--
-GW37,"dom, 17 mag | 22:00",COMO,PARMA,--
-GW37,"dom, 17 mag | 22:00",GENOA,MILAN,--
-GW37,"dom, 17 mag | 22:00",INTER,VERONA,--
-GW37,"dom, 17 mag | 22:00",JUVENTUS,FIORENTINA,--
-GW37,"dom, 17 mag | 22:00",PISA,NAPOLI,--
-GW37,"dom, 17 mag | 22:00",ROMA,LAZIO,--
-GW37,"dom, 17 mag | 22:00",SASSUOLO,LECCE,--
-GW37,"dom, 17 mag | 22:00",UDINESE,CREMONESE,--
-GW38,"dom, 24 mag | 22:00",BOLOGNA,INTER,--
-GW38,"dom, 24 mag | 22:00",CREMONESE,COMO,--
-GW38,"dom, 24 mag | 22:00",FIORENTINA,ATALANTA,--
-GW38,"dom, 24 mag | 22:00",LAZIO,PISA,--
-GW38,"dom, 24 mag | 22:00",LECCE,GENOA,--
-GW38,"dom, 24 mag | 22:00",MILAN,CAGLIARI,--
-GW38,"dom, 24 mag | 22:00",NAPOLI,UDINESE,--
-GW38,"dom, 24 mag | 22:00",PARMA,SASSUOLO,--
-GW38,"dom, 24 mag | 22:00",TORINO,JUVENTUS,--
-GW38,"dom, 24 mag | 22:00",VERONA,ROMA,--
+GW25,"dom, 15 feb | 18:00",TORINO,BOLOGNA,1 - 2
+GW25,"dom, 15 feb | 20:45",NAPOLI,ROMA,2 - 2
+GW25,"lun, 16 feb | 20:45",CAGLIARI,LECCE,0 - 2
+GW26,"ven, 20 feb | 19:45",SASSUOLO,VERONA,--
+GW26,"sab, 21 feb | 14:00",JUVENTUS,COMO,--
+GW26,"sab, 21 feb | 17:00",LECCE,INTER,--
+GW26,"sab, 21 feb | 19:45",CAGLIARI,LAZIO,--
+GW26,"dom, 22 feb | 11:30",GENOA,TORINO,--
+GW26,"dom, 22 feb | 14:00",ATALANTA,NAPOLI,--
+GW26,"dom, 22 feb | 17:00",MILAN,PARMA,--
+GW26,"dom, 22 feb | 19:45",ROMA,CREMONESE,--
+GW26,"lun, 23 feb | 17:30",FIORENTINA,PISA,--
+GW26,"lun, 23 feb | 19:45",BOLOGNA,UDINESE,--
+GW27,"ven, 27 feb | 19:45",PARMA,CAGLIARI,--
+GW27,"sab, 28 feb | 14:00",COMO,LECCE,--
+GW27,"sab, 28 feb | 17:00",VERONA,NAPOLI,--
+GW27,"sab, 28 feb | 19:45",INTER,GENOA,--
+GW27,"dom, 1 mar | 11:30",CREMONESE,MILAN,--
+GW27,"dom, 1 mar | 14:00",SASSUOLO,ATALANTA,--
+GW27,"dom, 1 mar | 17:00",TORINO,LAZIO,--
+GW27,"dom, 1 mar | 19:45",ROMA,JUVENTUS,--
+GW27,"lun, 2 mar | 17:30",PISA,BOLOGNA,--
+GW27,"lun, 2 mar | 19:45",UDINESE,FIORENTINA,--
+GW28,"dom, 8 mar | 14:00",ATALANTA,UDINESE,--
+GW28,"dom, 8 mar | 14:00",BOLOGNA,VERONA,--
+GW28,"dom, 8 mar | 14:00",CAGLIARI,COMO,--
+GW28,"dom, 8 mar | 14:00",FIORENTINA,PARMA,--
+GW28,"dom, 8 mar | 14:00",GENOA,ROMA,--
+GW28,"dom, 8 mar | 14:00",JUVENTUS,PISA,--
+GW28,"dom, 8 mar | 14:00",LAZIO,SASSUOLO,--
+GW28,"dom, 8 mar | 14:00",LECCE,CREMONESE,--
+GW28,"dom, 8 mar | 14:00",MILAN,INTER,--
+GW28,"dom, 8 mar | 14:00",NAPOLI,TORINO,--
+GW29,"dom, 15 mar | 14:00",COMO,ROMA,--
+GW29,"dom, 15 mar | 14:00",CREMONESE,FIORENTINA,--
+GW29,"dom, 15 mar | 14:00",INTER,ATALANTA,--
+GW29,"dom, 15 mar | 14:00",LAZIO,MILAN,--
+GW29,"dom, 15 mar | 14:00",NAPOLI,LECCE,--
+GW29,"dom, 15 mar | 14:00",PISA,CAGLIARI,--
+GW29,"dom, 15 mar | 14:00",SASSUOLO,BOLOGNA,--
+GW29,"dom, 15 mar | 14:00",TORINO,PARMA,--
+GW29,"dom, 15 mar | 14:00",UDINESE,JUVENTUS,--
+GW29,"dom, 15 mar | 14:00",VERONA,GENOA,--
+GW30,"dom, 22 mar | 14:00",ATALANTA,VERONA,--
+GW30,"dom, 22 mar | 14:00",BOLOGNA,LAZIO,--
+GW30,"dom, 22 mar | 14:00",CAGLIARI,NAPOLI,--
+GW30,"dom, 22 mar | 14:00",COMO,PISA,--
+GW30,"dom, 22 mar | 14:00",FIORENTINA,INTER,--
+GW30,"dom, 22 mar | 14:00",GENOA,UDINESE,--
+GW30,"dom, 22 mar | 14:00",JUVENTUS,SASSUOLO,--
+GW30,"dom, 22 mar | 14:00",MILAN,TORINO,--
+GW30,"dom, 22 mar | 14:00",PARMA,CREMONESE,--
+GW30,"dom, 22 mar | 14:00",ROMA,LECCE,--
+GW31,"sab, 4 apr | 13:00",CREMONESE,BOLOGNA,--
+GW31,"sab, 4 apr | 13:00",INTER,ROMA,--
+GW31,"sab, 4 apr | 13:00",JUVENTUS,GENOA,--
+GW31,"sab, 4 apr | 13:00",LAZIO,PARMA,--
+GW31,"sab, 4 apr | 13:00",LECCE,ATALANTA,--
+GW31,"sab, 4 apr | 13:00",NAPOLI,MILAN,--
+GW31,"sab, 4 apr | 13:00",PISA,TORINO,--
+GW31,"sab, 4 apr | 13:00",SASSUOLO,CAGLIARI,--
+GW31,"sab, 4 apr | 13:00",UDINESE,COMO,--
+GW31,"sab, 4 apr | 13:00",VERONA,FIORENTINA,--
+GW32,"dom, 12 apr | 13:00",ATALANTA,JUVENTUS,--
+GW32,"dom, 12 apr | 13:00",BOLOGNA,LECCE,--
+GW32,"dom, 12 apr | 13:00",CAGLIARI,CREMONESE,--
+GW32,"dom, 12 apr | 13:00",COMO,INTER,--
+GW32,"dom, 12 apr | 13:00",FIORENTINA,LAZIO,--
+GW32,"dom, 12 apr | 13:00",GENOA,SASSUOLO,--
+GW32,"dom, 12 apr | 13:00",MILAN,UDINESE,--
+GW32,"dom, 12 apr | 13:00",PARMA,NAPOLI,--
+GW32,"dom, 12 apr | 13:00",ROMA,PISA,--
+GW32,"dom, 12 apr | 13:00",TORINO,VERONA,--
+GW33,"dom, 19 apr | 13:00",CREMONESE,TORINO,--
+GW33,"dom, 19 apr | 13:00",INTER,CAGLIARI,--
+GW33,"dom, 19 apr | 13:00",JUVENTUS,BOLOGNA,--
+GW33,"dom, 19 apr | 13:00",LECCE,FIORENTINA,--
+GW33,"dom, 19 apr | 13:00",NAPOLI,LAZIO,--
+GW33,"dom, 19 apr | 13:00",PISA,GENOA,--
+GW33,"dom, 19 apr | 13:00",ROMA,ATALANTA,--
+GW33,"dom, 19 apr | 13:00",SASSUOLO,COMO,--
+GW33,"dom, 19 apr | 13:00",UDINESE,PARMA,--
+GW33,"dom, 19 apr | 13:00",VERONA,MILAN,--
+GW34,"dom, 26 apr | 13:00",BOLOGNA,ROMA,--
+GW34,"dom, 26 apr | 13:00",CAGLIARI,ATALANTA,--
+GW34,"dom, 26 apr | 13:00",FIORENTINA,SASSUOLO,--
+GW34,"dom, 26 apr | 13:00",GENOA,COMO,--
+GW34,"dom, 26 apr | 13:00",LAZIO,UDINESE,--
+GW34,"dom, 26 apr | 13:00",MILAN,JUVENTUS,--
+GW34,"dom, 26 apr | 13:00",NAPOLI,CREMONESE,--
+GW34,"dom, 26 apr | 13:00",PARMA,PISA,--
+GW34,"dom, 26 apr | 13:00",TORINO,INTER,--
+GW34,"dom, 26 apr | 13:00",VERONA,LECCE,--
+GW35,"dom, 3 mag | 13:00",ATALANTA,GENOA,--
+GW35,"dom, 3 mag | 13:00",BOLOGNA,CAGLIARI,--
+GW35,"dom, 3 mag | 13:00",COMO,NAPOLI,--
+GW35,"dom, 3 mag | 13:00",CREMONESE,LAZIO,--
+GW35,"dom, 3 mag | 13:00",INTER,PARMA,--
+GW35,"dom, 3 mag | 13:00",JUVENTUS,VERONA,--
+GW35,"dom, 3 mag | 13:00",PISA,LECCE,--
+GW35,"dom, 3 mag | 13:00",ROMA,FIORENTINA,--
+GW35,"dom, 3 mag | 13:00",SASSUOLO,MILAN,--
+GW35,"dom, 3 mag | 13:00",UDINESE,TORINO,--
+GW36,"dom, 10 mag | 13:00",CAGLIARI,UDINESE,--
+GW36,"dom, 10 mag | 13:00",CREMONESE,PISA,--
+GW36,"dom, 10 mag | 13:00",FIORENTINA,GENOA,--
+GW36,"dom, 10 mag | 13:00",LAZIO,INTER,--
+GW36,"dom, 10 mag | 13:00",LECCE,JUVENTUS,--
+GW36,"dom, 10 mag | 13:00",MILAN,ATALANTA,--
+GW36,"dom, 10 mag | 13:00",NAPOLI,BOLOGNA,--
+GW36,"dom, 10 mag | 13:00",PARMA,ROMA,--
+GW36,"dom, 10 mag | 13:00",TORINO,SASSUOLO,--
+GW36,"dom, 10 mag | 13:00",VERONA,COMO,--
+GW37,"dom, 17 mag | 13:00",ATALANTA,BOLOGNA,--
+GW37,"dom, 17 mag | 13:00",CAGLIARI,TORINO,--
+GW37,"dom, 17 mag | 13:00",COMO,PARMA,--
+GW37,"dom, 17 mag | 13:00",GENOA,MILAN,--
+GW37,"dom, 17 mag | 13:00",INTER,VERONA,--
+GW37,"dom, 17 mag | 13:00",JUVENTUS,FIORENTINA,--
+GW37,"dom, 17 mag | 13:00",PISA,NAPOLI,--
+GW37,"dom, 17 mag | 13:00",ROMA,LAZIO,--
+GW37,"dom, 17 mag | 13:00",SASSUOLO,LECCE,--
+GW37,"dom, 17 mag | 13:00",UDINESE,CREMONESE,--
+GW38,"dom, 24 mag | 13:00",BOLOGNA,INTER,--
+GW38,"dom, 24 mag | 13:00",CREMONESE,COMO,--
+GW38,"dom, 24 mag | 13:00",FIORENTINA,ATALANTA,--
+GW38,"dom, 24 mag | 13:00",LAZIO,PISA,--
+GW38,"dom, 24 mag | 13:00",LECCE,GENOA,--
+GW38,"dom, 24 mag | 13:00",MILAN,CAGLIARI,--
+GW38,"dom, 24 mag | 13:00",NAPOLI,UDINESE,--
+GW38,"dom, 24 mag | 13:00",PARMA,SASSUOLO,--
+GW38,"dom, 24 mag | 13:00",TORINO,JUVENTUS,--
+GW38,"dom, 24 mag | 13:00",VERONA,ROMA,--
