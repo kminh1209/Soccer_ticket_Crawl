@@ -32,6 +32,7 @@ jobs:
           python premier_.py
           python league1.py
           python seriea_.py
+          python laliga_.py
 
       - name: Commit and push changes
         env:
