@@ -1,29 +1,29 @@
 ﻿Matchweek,Date,Home,Away,Result/Time
-MW1,Fri 27 Feb - Sun 1 Mar,Wolverhampton Wanderers,Aston Villa,20:00
-MW1,Fri 27 Feb - Sun 1 Mar,Bournemouth,Sunderland,12:30
-MW1,Fri 27 Feb - Sun 1 Mar,Burnley,Brentford,15:00
-MW1,Fri 27 Feb - Sun 1 Mar,Liverpool,West Ham United,15:00
-MW1,Fri 27 Feb - Sun 1 Mar,Newcastle United,Everton,15:00
-MW1,Fri 27 Feb - Sun 1 Mar,Leeds United,Manchester City,17:30
-MW1,Sun 1 Mar,Brighton and Hove Albion,Nottingham Forest,14:00
-MW1,Sun 1 Mar,Fulham,Tottenham Hotspur,14:00
-MW1,Sun 1 Mar,Manchester United,Crystal Palace,14:00
-MW1,Sun 1 Mar,Arsenal,Chelsea,16:30
-MW2,Tue 3 Mar,Bournemouth,Brentford,19:30
-MW2,Tue 3 Mar,Everton,Burnley,19:30
-MW2,Tue 3 Mar,Leeds United,Sunderland,19:30
-MW2,Tue 3 Mar,Wolverhampton Wanderers,Liverpool,20:15
+MW1,Fri 27 Feb,Wolverhampton Wanderers,Aston Villa,2 - 0
+MW1,Sat 28 Feb,Bournemouth,Sunderland,1 - 1
+MW1,Sat 28 Feb,Burnley,Brentford,3 - 4
+MW1,Sat 28 Feb,Liverpool,West Ham United,5 - 2
+MW1,Sat 28 Feb,Newcastle United,Everton,2 - 3
+MW1,Sat 28 Feb,Leeds United,Manchester City,0 - 1
+MW1,Sat 28 Feb,Brighton and Hove Albion,Nottingham Forest,2 - 1
+MW1,Sat 28 Feb,Fulham,Tottenham Hotspur,2 - 1
+MW1,Sat 28 Feb,Manchester United,Crystal Palace,2 - 1
+MW1,Sat 28 Feb,Arsenal,Chelsea,2 - 1
+MW2,Tue 3 Mar - Thu 5 Mar,Bournemouth,Brentford,19:30
+MW2,Tue 3 Mar - Thu 5 Mar,Everton,Burnley,19:30
+MW2,Tue 3 Mar - Thu 5 Mar,Leeds United,Sunderland,19:30
+MW2,Tue 3 Mar - Thu 5 Mar,Wolverhampton Wanderers,Liverpool,20:15
 MW2,Wed 4 Mar,Aston Villa,Chelsea,19:30
 MW2,Wed 4 Mar,Brighton and Hove Albion,Arsenal,19:30
 MW2,Wed 4 Mar,Fulham,West Ham United,19:30
 MW2,Wed 4 Mar,Manchester City,Nottingham Forest,19:30
 MW2,Wed 4 Mar,Newcastle United,Manchester United,20:15
 MW2,Thu 5 Mar,Tottenham Hotspur,Crystal Palace,20:00
-MW3,Sat 14 Mar,West Ham United,Manchester City,12:30
 MW3,Sat 14 Mar,Burnley,Bournemouth,15:00
-MW3,Sat 14 Mar,Crystal Palace,Leeds United,15:00
+MW3,Sat 14 Mar,Arsenal,Everton,17:30
 MW3,Sat 14 Mar,Chelsea,Newcastle United,17:30
-MW3,Sun 15 Mar,Arsenal,Everton,14:00
+MW3,Sat 14 Mar,West Ham United,Manchester City,20:00
+MW3,Sun 15 Mar,Crystal Palace,Leeds United,14:00
 MW3,Sun 15 Mar,Manchester United,Aston Villa,14:00
 MW3,Sun 15 Mar,Nottingham Forest,Fulham,14:00
 MW3,Sun 15 Mar,Liverpool,Tottenham Hotspur,16:30

@@ -249,23 +249,23 @@ GW25,SUN 22.02.2026,16:15,FC Barcelona,Levante UD,3 - 0
 GW25,SUN 22.02.2026,18:30,Celta,RCD Mallorca,2 - 0
 GW25,SUN 22.02.2026,21:00,Villarreal CF,Valencia CF,2 - 1
 GW25,MON 23.02.2026,21:00,Deportivo Alavés,Girona FC,2 - 2
-GW26,FRI 27.02.2026,21:00,Levante UD VS Deportivo Alavés,Match Pending,Match Pending
-GW26,SAT 28.02.2026,14:00,Rayo Vallecano VS Athletic Club,Match Pending,Match Pending
-GW26,SAT 28.02.2026,16:15,FC Barcelona VS Villarreal CF,Match Pending,Match Pending
-GW26,SAT 28.02.2026,18:30,RCD Mallorca VS Real Sociedad,Match Pending,Match Pending
-GW26,SAT 28.02.2026,21:00,Real Oviedo VS Atlético de Madrid,Match Pending,Match Pending
-GW26,SUN 01.03.2026,14:00,Elche CF VS RCD Espanyol de Barcelona,Match Pending,Match Pending
-GW26,SUN 01.03.2026,16:15,Valencia CF VS CA Osasuna,Match Pending,Match Pending
-GW26,SUN 01.03.2026,18:30,Real Betis VS Sevilla FC,Match Pending,Match Pending
-GW26,SUN 01.03.2026,21:00,Girona FC VS Celta,Match Pending,Match Pending
+GW26,FRI 27.02.2026,21:00,Levante UD,Deportivo Alavés,2 - 0
+GW26,SAT 28.02.2026,14:00,Rayo Vallecano,Athletic Club,1 - 1
+GW26,SAT 28.02.2026,16:15,FC Barcelona,Villarreal CF,4 - 1
+GW26,SAT 28.02.2026,18:30,RCD Mallorca,Real Sociedad,0 - 1
+GW26,SAT 28.02.2026,21:00,Real Oviedo,Atlético de Madrid,0 - 1
+GW26,SUN 01.03.2026,14:00,Elche CF,RCD Espanyol de Barcelona,2 - 2
+GW26,SUN 01.03.2026,16:15,Valencia CF,CA Osasuna,1 - 0
+GW26,SUN 01.03.2026,18:30,Real Betis,Sevilla FC,2 - 2
+GW26,SUN 01.03.2026,21:00,Girona FC,Celta,1 - 2
 GW26,MON 02.03.2026,21:00,Real Madrid VS Getafe CF,Match Pending,Match Pending
-GW27,FRI 06.03.2026,21:00,CA Osasuna VS RCD Mallorca,Match Pending,Match Pending
-GW27,SAT 07.03.2026,14:00,Getafe CF VS Real Betis,Match Pending,Match Pending
+GW27,FRI 06.03.2026,21:00,Celta VS Real Madrid,Match Pending,Match Pending
+GW27,SAT 07.03.2026,14:00,CA Osasuna VS RCD Mallorca,Match Pending,Match Pending
 GW27,SAT 07.03.2026,16:15,Levante UD VS Girona FC,Match Pending,Match Pending
 GW27,SAT 07.03.2026,18:30,Atlético de Madrid VS Real Sociedad,Match Pending,Match Pending
-GW27,SAT 07.03.2026,21:00,Celta VS Real Madrid,Match Pending,Match Pending
+GW27,SAT 07.03.2026,21:00,Athletic Club VS FC Barcelona,Match Pending,Match Pending
 GW27,SUN 08.03.2026,14:00,Villarreal CF VS Elche CF,Match Pending,Match Pending
-GW27,SUN 08.03.2026,16:15,Athletic Club VS FC Barcelona,Match Pending,Match Pending
+GW27,SUN 08.03.2026,16:15,Getafe CF VS Real Betis,Match Pending,Match Pending
 GW27,SUN 08.03.2026,18:30,Sevilla FC VS Rayo Vallecano,Match Pending,Match Pending
 GW27,SUN 08.03.2026,21:00,Valencia CF VS Deportivo Alavés,Match Pending,Match Pending
 GW27,MON 09.03.2026,21:00,RCD Espanyol de Barcelona VS Real Oviedo,Match Pending,Match Pending
