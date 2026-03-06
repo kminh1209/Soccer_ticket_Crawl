@@ -210,15 +210,15 @@ GW24,Friday 27 Feb.,Strasbourg,RC Lens,1 - 1
 GW24,Saturday 28 Feb.,Rennes,Toulouse FC,1 - 0
 GW24,Saturday 28 Feb.,AS Monaco,Angers SCO,2 - 0
 GW24,Saturday 28 Feb.,Havre AC,PSG,0 - 1
-GW24,Saturday 28 Feb.,Paris FC,OGC Nice,1 - 0
-GW24,Saturday 28 Feb.,LOSC,FC Nantes,1 - 0
-GW24,Saturday 28 Feb.,FC Lorient,AJ Auxerre,2 - 2
-GW24,Saturday 28 Feb.,FC Metz,Brest,0 - 1
-GW24,Saturday 28 Feb.,OM,OL,3 - 2
-GW25,Friday 6 Mar.,PSG,AS Monaco,7:45 PM
-GW25,Saturday 7 Mar.,FC Nantes,Angers SCO,4 PM
-GW25,Saturday 7 Mar.,AJ Auxerre,Strasbourg,6 PM
-GW25,Saturday 7 Mar.,Toulouse FC,OM,8:05 PM
+GW24,Sunday 1 Mar.,Paris FC,OGC Nice,1 - 0
+GW24,Sunday 1 Mar.,LOSC,FC Nantes,1 - 0
+GW24,Sunday 1 Mar.,FC Lorient,AJ Auxerre,2 - 2
+GW24,Sunday 1 Mar.,FC Metz,Brest,0 - 1
+GW24,Sunday 1 Mar.,OM,OL,3 - 2
+GW25,Unknown Date,PSG,AS Monaco,7:45 PM
+GW25,Unknown Date,FC Nantes,Angers SCO,4 PM
+GW25,Unknown Date,AJ Auxerre,Strasbourg,6 PM
+GW25,Unknown Date,Toulouse FC,OM,8:05 PM
 GW25,Sunday 8 Mar.,RC Lens,FC Metz,2 PM
 GW25,Sunday 8 Mar.,Brest,Havre AC,4:15 PM
 GW25,Sunday 8 Mar.,LOSC,FC Lorient,4:15 PM
@@ -233,15 +233,15 @@ GW26,Sunday 15 Mar.,Strasbourg,Paris FC,2 PM
 GW26,Sunday 15 Mar.,Havre AC,OL,4:15 PM
 GW26,Sunday 15 Mar.,FC Metz,Toulouse FC,4:15 PM
 GW26,Sunday 15 Mar.,Rennes,LOSC,7:45 PM
-GW27,Saturday 21 Mar.,AJ Auxerre,Brest,--
-GW27,Saturday 21 Mar.,RC Lens,Angers SCO,--
-GW27,Saturday 21 Mar.,OL,AS Monaco,--
+GW27,Friday 20 Mar.,RC Lens,Angers SCO,7:45 PM
+GW27,Saturday 21 Mar.,Toulouse FC,FC Lorient,4 PM
+GW27,Saturday 21 Mar.,AJ Auxerre,Brest,6 PM
+GW27,Saturday 21 Mar.,OGC Nice,PSG,8:05 PM
 GW27,Saturday 21 Mar.,OM,LOSC,--
-GW27,Saturday 21 Mar.,FC Nantes,Strasbourg,--
-GW27,Saturday 21 Mar.,OGC Nice,PSG,--
-GW27,Saturday 21 Mar.,Paris FC,Havre AC,--
-GW27,Saturday 21 Mar.,Rennes,FC Metz,--
-GW27,Saturday 21 Mar.,Toulouse FC,FC Lorient,--
+GW27,Sunday 22 Mar.,OL,AS Monaco,2 PM
+GW27,Sunday 22 Mar.,Paris FC,Havre AC,4:15 PM
+GW27,Sunday 22 Mar.,Rennes,FC Metz,4:15 PM
+GW27,Sunday 22 Mar.,FC Nantes,Strasbourg,7:45 PM
 GW28,Saturday 4 Apr.,Angers SCO,OL,--
 GW28,Saturday 4 Apr.,Brest,Rennes,--
 GW28,Saturday 4 Apr.,Havre AC,AJ Auxerre,--
