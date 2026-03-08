@@ -4,9 +4,12 @@
 
 ### <현재 크롤링 되는 리그>
 
+- Laliga
 - Premier League
 - League1
 - SerieA
+- Eredivisie
+- LigaPortugal
 
 
 ### 매주 월요일과 금요일 (한국)오전 9시에 크롤링 작업이 자동으로 실행된다.
