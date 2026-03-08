@@ -33,6 +33,8 @@ jobs:
           python league1.py
           python seriea_.py
           python laliga_.py
+          python eredivisie.py
+          python ligaportugal.py
 
       - name: Commit and push changes
         env:
