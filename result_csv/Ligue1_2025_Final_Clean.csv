@@ -215,15 +215,15 @@ GW24,Sunday 1 Mar.,LOSC,FC Nantes,1 - 0
 GW24,Sunday 1 Mar.,FC Lorient,AJ Auxerre,2 - 2
 GW24,Sunday 1 Mar.,FC Metz,Brest,0 - 1
 GW24,Sunday 1 Mar.,OM,OL,3 - 2
-GW25,Unknown Date,PSG,AS Monaco,7:45 PM
-GW25,Unknown Date,FC Nantes,Angers SCO,4 PM
-GW25,Unknown Date,AJ Auxerre,Strasbourg,6 PM
-GW25,Unknown Date,Toulouse FC,OM,8:05 PM
-GW25,Sunday 8 Mar.,RC Lens,FC Metz,2 PM
-GW25,Sunday 8 Mar.,Brest,Havre AC,4:15 PM
-GW25,Sunday 8 Mar.,LOSC,FC Lorient,4:15 PM
-GW25,Sunday 8 Mar.,OGC Nice,Rennes,4:15 PM
-GW25,Sunday 8 Mar.,OL,Paris FC,7:45 PM
+GW25,Friday 6 Mar.,PSG,AS Monaco,1 - 3
+GW25,Saturday 7 Mar.,FC Nantes,Angers SCO,0 - 1
+GW25,Saturday 7 Mar.,AJ Auxerre,Strasbourg,0 - 0
+GW25,Saturday 7 Mar.,Toulouse FC,OM,0 - 1
+GW25,Saturday 7 Mar.,RC Lens,FC Metz,3 - 0
+GW25,Saturday 7 Mar.,Brest,Havre AC,2 - 0
+GW25,Saturday 7 Mar.,LOSC,FC Lorient,1 - 1
+GW25,Saturday 7 Mar.,OGC Nice,Rennes,0 - 4
+GW25,Saturday 7 Mar.,OL,Paris FC,1 - 1
 GW26,Friday 13 Mar.,OM,AJ Auxerre,7:45 PM
 GW26,Saturday 14 Mar.,FC Lorient,RC Lens,4 PM
 GW26,Saturday 14 Mar.,Angers SCO,OGC Nice,6 PM
@@ -236,30 +236,30 @@ GW26,Sunday 15 Mar.,Rennes,LOSC,7:45 PM
 GW27,Friday 20 Mar.,RC Lens,Angers SCO,7:45 PM
 GW27,Saturday 21 Mar.,Toulouse FC,FC Lorient,4 PM
 GW27,Saturday 21 Mar.,AJ Auxerre,Brest,6 PM
-GW27,Saturday 21 Mar.,OGC Nice,PSG,8:05 PM
-GW27,Saturday 21 Mar.,OM,LOSC,--
+GW27,Saturday 21 Mar.,OGC Nice,PSG,8 PM
 GW27,Sunday 22 Mar.,OL,AS Monaco,2 PM
+GW27,Sunday 22 Mar.,OM,LOSC,4:15 PM
 GW27,Sunday 22 Mar.,Paris FC,Havre AC,4:15 PM
 GW27,Sunday 22 Mar.,Rennes,FC Metz,4:15 PM
 GW27,Sunday 22 Mar.,FC Nantes,Strasbourg,7:45 PM
-GW28,Saturday 4 Apr.,Angers SCO,OL,--
-GW28,Saturday 4 Apr.,Brest,Rennes,--
-GW28,Saturday 4 Apr.,Havre AC,AJ Auxerre,--
-GW28,Saturday 4 Apr.,LOSC,RC Lens,--
-GW28,Saturday 4 Apr.,FC Lorient,Paris FC,--
-GW28,Saturday 4 Apr.,FC Metz,FC Nantes,--
-GW28,Saturday 4 Apr.,AS Monaco,OM,--
-GW28,Saturday 4 Apr.,PSG,Toulouse FC,--
-GW28,Saturday 4 Apr.,Strasbourg,OGC Nice,--
-GW29,Saturday 11 Apr.,AJ Auxerre,FC Nantes,--
-GW29,Saturday 11 Apr.,Brest,Strasbourg,--
-GW29,Saturday 11 Apr.,RC Lens,PSG,--
-GW29,Saturday 11 Apr.,OL,FC Lorient,--
-GW29,Saturday 11 Apr.,OM,FC Metz,--
-GW29,Saturday 11 Apr.,OGC Nice,Havre AC,--
-GW29,Saturday 11 Apr.,Paris FC,AS Monaco,--
-GW29,Saturday 11 Apr.,Rennes,Angers SCO,--
-GW29,Saturday 11 Apr.,Toulouse FC,LOSC,--
+GW28,Friday 3 Apr.,PSG,Toulouse FC,6:45 PM
+GW28,Saturday 4 Apr.,Strasbourg,OGC Nice,3 PM
+GW28,Saturday 4 Apr.,Brest,Rennes,5 PM
+GW28,Saturday 4 Apr.,LOSC,RC Lens,7:05 PM
+GW28,Sunday 5 Apr.,Angers SCO,OL,1 PM
+GW28,Sunday 5 Apr.,Havre AC,AJ Auxerre,3:15 PM
+GW28,Sunday 5 Apr.,FC Lorient,Paris FC,3:15 PM
+GW28,Sunday 5 Apr.,FC Metz,FC Nantes,3:15 PM
+GW28,Sunday 5 Apr.,AS Monaco,OM,6:45 PM
+GW29,Friday 10 Apr.,OM,FC Metz,6:45 PM
+GW29,Saturday 11 Apr.,RC Lens,PSG,3 PM
+GW29,Saturday 11 Apr.,AJ Auxerre,FC Nantes,5 PM
+GW29,Saturday 11 Apr.,Rennes,Angers SCO,7:05 PM
+GW29,Sunday 12 Apr.,Paris FC,AS Monaco,1 PM
+GW29,Sunday 12 Apr.,Brest,Strasbourg,3:15 PM
+GW29,Sunday 12 Apr.,OGC Nice,Havre AC,3:15 PM
+GW29,Sunday 12 Apr.,Toulouse FC,LOSC,3:15 PM
+GW29,Sunday 12 Apr.,OL,FC Lorient,6:45 PM
 GW30,Saturday 18 Apr.,Angers SCO,Havre AC,--
 GW30,Saturday 18 Apr.,RC Lens,Toulouse FC,--
 GW30,Saturday 18 Apr.,LOSC,OGC Nice,--
