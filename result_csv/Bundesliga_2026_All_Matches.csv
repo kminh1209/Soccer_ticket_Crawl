@@ -1,0 +1,307 @@
+﻿Gameweek,Date,Home,Away,Result/Time
+GW1,SATURDAY 23 August,Bayern Munich,RB Leipzig,6 - 0
+GW1,SATURDAY 23 August,Bayer Leverkusen,Hoffenheim,1 - 2
+GW1,SATURDAY 23 August,Eintracht Frankfurt,Werder Bremen,4 - 1
+GW1,SATURDAY 23 August,Freiburg,Augsburg,1 - 3
+GW1,SATURDAY 23 August,Union Berlin,VfB Stuttgart,2 - 1
+GW1,SATURDAY 23 August,Heidenheim,Wolfsburg,1 - 3
+GW1,SUNDAY 24 August,St. Pauli,Borussia Dortmund,3 - 3
+GW1,SUNDAY 24 August,Mainz,Cologne,0 - 1
+GW1,MONDAY 25 August,Borussia Mönchengladbach,Hamburg,0 - 0
+GW2,SATURDAY 30 August,Hamburg,St. Pauli,0 - 2
+GW2,SATURDAY 30 August,RB Leipzig,Heidenheim,2 - 0
+GW2,SATURDAY 30 August,Werder Bremen,Bayer Leverkusen,3 - 3
+GW2,SATURDAY 30 August,VfB Stuttgart,Borussia Mönchengladbach,1 - 0
+GW2,SATURDAY 30 August,Hoffenheim,Eintracht Frankfurt,1 - 3
+GW2,SUNDAY 31 August,Augsburg,Bayern Munich,2 - 3
+GW2,SUNDAY 31 August,Wolfsburg,Mainz,1 - 1
+GW2,MONDAY 1 September,Borussia Dortmund,Union Berlin,3 - 0
+GW2,MONDAY 1 September,Cologne,Freiburg,4 - 1
+GW3,SATURDAY 13 September,Bayer Leverkusen,Eintracht Frankfurt,3 - 1
+GW3,SATURDAY 13 September,Freiburg,VfB Stuttgart,3 - 1
+GW3,SATURDAY 13 September,Mainz,RB Leipzig,0 - 1
+GW3,SATURDAY 13 September,Wolfsburg,Cologne,3 - 3
+GW3,SATURDAY 13 September,Union Berlin,Hoffenheim,2 - 4
+GW3,SATURDAY 13 September,Heidenheim,Borussia Dortmund,0 - 2
+GW3,SUNDAY 14 September,Bayern Munich,Hamburg,5 - 0
+GW3,SUNDAY 14 September,St. Pauli,Augsburg,2 - 1
+GW3,MONDAY 15 September,Borussia Mönchengladbach,Werder Bremen,0 - 4
+GW4,SATURDAY 20 September,VfB Stuttgart,St. Pauli,2 - 0
+GW4,SATURDAY 20 September,Werder Bremen,Freiburg,0 - 3
+GW4,SATURDAY 20 September,Augsburg,Mainz,1 - 4
+GW4,SATURDAY 20 September,Hoffenheim,Bayern Munich,1 - 4
+GW4,SATURDAY 20 September,Hamburg,Heidenheim,2 - 1
+GW4,SUNDAY 21 September,RB Leipzig,Cologne,3 - 1
+GW4,SUNDAY 21 September,Eintracht Frankfurt,Union Berlin,3 - 4
+GW4,MONDAY 22 September,Bayer Leverkusen,Borussia Mönchengladbach,1 - 1
+GW4,MONDAY 22 September,Borussia Dortmund,Wolfsburg,1 - 0
+GW5,SATURDAY 27 September,Bayern Munich,Werder Bremen,4 - 0
+GW5,SATURDAY 27 September,Mainz,Borussia Dortmund,0 - 2
+GW5,SATURDAY 27 September,Wolfsburg,RB Leipzig,0 - 1
+GW5,SATURDAY 27 September,St. Pauli,Bayer Leverkusen,1 - 2
+GW5,SATURDAY 27 September,Heidenheim,Augsburg,2 - 1
+GW5,SUNDAY 28 September,Borussia Mönchengladbach,Eintracht Frankfurt,4 - 6
+GW5,SUNDAY 28 September,Freiburg,Hoffenheim,1 - 1
+GW5,MONDAY 29 September,Cologne,VfB Stuttgart,1 - 2
+GW5,MONDAY 29 September,Union Berlin,Hamburg,0 - 0
+GW6,SATURDAY 4 October,Hoffenheim,Cologne,0 - 1
+GW6,SATURDAY 4 October,Bayer Leverkusen,Union Berlin,2 - 0
+GW6,SATURDAY 4 October,Borussia Dortmund,RB Leipzig,1 - 1
+GW6,SATURDAY 4 October,Werder Bremen,St. Pauli,1 - 0
+GW6,SATURDAY 4 October,Augsburg,Wolfsburg,3 - 1
+GW6,SUNDAY 5 October,Eintracht Frankfurt,Bayern Munich,0 - 3
+GW6,SUNDAY 5 October,VfB Stuttgart,Heidenheim,1 - 0
+GW6,MONDAY 6 October,Hamburg,Mainz,4 - 0
+GW6,MONDAY 6 October,Borussia Mönchengladbach,Freiburg,0 - 0
+GW7,SATURDAY 18 October,Union Berlin,Borussia Mönchengladbach,3 - 1
+GW7,SATURDAY 18 October,Mainz,Bayer Leverkusen,3 - 4
+GW7,SATURDAY 18 October,RB Leipzig,Hamburg,2 - 1
+GW7,SATURDAY 18 October,Wolfsburg,VfB Stuttgart,0 - 3
+GW7,SATURDAY 18 October,Heidenheim,Werder Bremen,2 - 2
+GW7,SATURDAY 18 October,Cologne,Augsburg,1 - 1
+GW7,SUNDAY 19 October,Bayern Munich,Borussia Dortmund,2 - 1
+GW7,SUNDAY 19 October,Freiburg,Eintracht Frankfurt,2 - 2
+GW7,MONDAY 20 October,St. Pauli,Hoffenheim,0 - 3
+GW8,SATURDAY 25 October,Werder Bremen,Union Berlin,1 - 0
+GW8,SATURDAY 25 October,Eintracht Frankfurt,St. Pauli,2 - 0
+GW8,SATURDAY 25 October,Borussia Mönchengladbach,Bayern Munich,0 - 3
+GW8,SATURDAY 25 October,Augsburg,RB Leipzig,0 - 6
+GW8,SATURDAY 25 October,Hoffenheim,Heidenheim,3 - 1
+GW8,SATURDAY 25 October,Hamburg,Wolfsburg,0 - 1
+GW8,SUNDAY 26 October,Borussia Dortmund,Cologne,1 - 0
+GW8,SUNDAY 26 October,Bayer Leverkusen,Freiburg,2 - 0
+GW8,MONDAY 27 October,VfB Stuttgart,Mainz,2 - 1
+GW9,SATURDAY 1 November,Augsburg,Borussia Dortmund,0 - 1
+GW9,SATURDAY 1 November,Mainz,Werder Bremen,1 - 1
+GW9,SATURDAY 1 November,RB Leipzig,VfB Stuttgart,3 - 1
+GW9,SATURDAY 1 November,Union Berlin,Freiburg,0 - 0
+GW9,SATURDAY 1 November,St. Pauli,Borussia Mönchengladbach,0 - 4
+GW9,SATURDAY 1 November,Heidenheim,Eintracht Frankfurt,1 - 1
+GW9,SUNDAY 2 November,Bayern Munich,Bayer Leverkusen,3 - 0
+GW9,SUNDAY 2 November,Cologne,Hamburg,4 - 1
+GW9,MONDAY 3 November,Wolfsburg,Hoffenheim,2 - 3
+GW10,SATURDAY 8 November,Werder Bremen,Wolfsburg,2 - 1
+GW10,SATURDAY 8 November,Bayer Leverkusen,Heidenheim,6 - 0
+GW10,SATURDAY 8 November,Union Berlin,Bayern Munich,2 - 2
+GW10,SATURDAY 8 November,Hoffenheim,RB Leipzig,3 - 1
+GW10,SATURDAY 8 November,Hamburg,Borussia Dortmund,1 - 1
+GW10,SUNDAY 9 November,Borussia Mönchengladbach,Cologne,3 - 1
+GW10,SUNDAY 9 November,Freiburg,St. Pauli,2 - 1
+GW10,MONDAY 10 November,VfB Stuttgart,Augsburg,3 - 2
+GW10,MONDAY 10 November,Eintracht Frankfurt,Mainz,1 - 0
+GW11,SATURDAY 22 November,Mainz,Hoffenheim,1 - 1
+GW11,SATURDAY 22 November,Bayern Munich,Freiburg,6 - 2
+GW11,SATURDAY 22 November,Borussia Dortmund,VfB Stuttgart,3 - 3
+GW11,SATURDAY 22 November,Wolfsburg,Bayer Leverkusen,1 - 3
+GW11,SATURDAY 22 November,Augsburg,Hamburg,1 - 0
+GW11,SATURDAY 22 November,Heidenheim,Borussia Mönchengladbach,0 - 3
+GW11,SUNDAY 23 November,Cologne,Eintracht Frankfurt,3 - 4
+GW11,SUNDAY 23 November,RB Leipzig,Werder Bremen,2 - 0
+GW11,MONDAY 24 November,St. Pauli,Union Berlin,0 - 1
+GW12,SATURDAY 29 November,Borussia Mönchengladbach,RB Leipzig,0 - 0
+GW12,SATURDAY 29 November,Bayern Munich,St. Pauli,3 - 1
+GW12,SATURDAY 29 November,Werder Bremen,Cologne,1 - 1
+GW12,SATURDAY 29 November,Union Berlin,Heidenheim,1 - 2
+GW12,SATURDAY 29 November,Hoffenheim,Augsburg,3 - 0
+GW12,SUNDAY 30 November,Bayer Leverkusen,Borussia Dortmund,1 - 2
+GW12,SUNDAY 30 November,Hamburg,VfB Stuttgart,2 - 1
+GW12,MONDAY 1 December,Eintracht Frankfurt,Wolfsburg,1 - 1
+GW12,MONDAY 1 December,Freiburg,Mainz,4 - 0
+GW13,SATURDAY 6 December,Mainz,Borussia Mönchengladbach,0 - 1
+GW13,SATURDAY 6 December,VfB Stuttgart,Bayern Munich,0 - 5
+GW13,SATURDAY 6 December,Wolfsburg,Union Berlin,3 - 1
+GW13,SATURDAY 6 December,Augsburg,Bayer Leverkusen,2 - 0
+GW13,SATURDAY 6 December,Heidenheim,Freiburg,2 - 1
+GW13,SATURDAY 6 December,Cologne,St. Pauli,1 - 1
+GW13,SUNDAY 7 December,RB Leipzig,Eintracht Frankfurt,6 - 0
+GW13,SUNDAY 7 December,Hamburg,Werder Bremen,3 - 2
+GW13,MONDAY 8 December,Borussia Dortmund,Hoffenheim,2 - 0
+GW14,SATURDAY 13 December,Union Berlin,RB Leipzig,3 - 1
+GW14,SATURDAY 13 December,Eintracht Frankfurt,Augsburg,1 - 0
+GW14,SATURDAY 13 December,Borussia Mönchengladbach,Wolfsburg,1 - 3
+GW14,SATURDAY 13 December,St. Pauli,Heidenheim,2 - 1
+GW14,SATURDAY 13 December,Hoffenheim,Hamburg,4 - 1
+GW14,SUNDAY 14 December,Bayer Leverkusen,Cologne,2 - 0
+GW14,SUNDAY 14 December,Freiburg,Borussia Dortmund,1 - 1
+GW14,MONDAY 15 December,Bayern Munich,Mainz,2 - 2
+GW14,MONDAY 15 December,Werder Bremen,VfB Stuttgart,0 - 4
+GW15,SATURDAY 20 December,Borussia Dortmund,Borussia Mönchengladbach,2 - 0
+GW15,SATURDAY 20 December,VfB Stuttgart,Hoffenheim,0 - 0
+GW15,SATURDAY 20 December,Wolfsburg,Freiburg,3 - 4
+GW15,SATURDAY 20 December,Augsburg,Werder Bremen,0 - 0
+GW15,SATURDAY 20 December,Cologne,Union Berlin,0 - 1
+GW15,SATURDAY 20 December,Hamburg,Eintracht Frankfurt,1 - 1
+GW15,SUNDAY 21 December,RB Leipzig,Bayer Leverkusen,1 - 3
+GW15,SUNDAY 21 December,Mainz,St. Pauli,0 - 0
+GW15,MONDAY 22 December,Heidenheim,Bayern Munich,0 - 4
+GW16,SATURDAY 10 January,Eintracht Frankfurt,Borussia Dortmund,3 - 3
+GW16,SATURDAY 10 January,Freiburg,Hamburg,2 - 1
+GW16,SATURDAY 10 January,Union Berlin,Mainz,2 - 2
+GW16,SATURDAY 10 January,Heidenheim,Cologne,2 - 2
+GW16,SUNDAY 11 January,Bayer Leverkusen,VfB Stuttgart,1 - 4
+GW16,SUNDAY 11 January,Borussia Mönchengladbach,Augsburg,4 - 0
+GW16,MONDAY 12 January,Bayern Munich,Wolfsburg,8 - 1
+GW16,WEDNESDAY 28 January,Werder Bremen,Hoffenheim,0 - 2
+GW16,WEDNESDAY 28 January,St. Pauli,RB Leipzig,1 - 1
+GW17,WEDNESDAY 14 January,VfB Stuttgart,Eintracht Frankfurt,3 - 2
+GW17,WEDNESDAY 14 January,Borussia Dortmund,Werder Bremen,3 - 0
+GW17,WEDNESDAY 14 January,Mainz,Heidenheim,2 - 1
+GW17,THURSDAY 15 January,Wolfsburg,St. Pauli,2 - 1
+GW17,THURSDAY 15 January,RB Leipzig,Freiburg,2 - 0
+GW17,THURSDAY 15 January,Hoffenheim,Borussia Mönchengladbach,5 - 1
+GW17,THURSDAY 15 January,Cologne,Bayern Munich,1 - 3
+GW17,FRIDAY 16 January,Augsburg,Union Berlin,1 - 1
+GW17,THURSDAY 5 March,Hamburg,Bayer Leverkusen,0 - 1
+GW18,SATURDAY 17 January,Werder Bremen,Eintracht Frankfurt,3 - 3
+GW18,SATURDAY 17 January,Borussia Dortmund,St. Pauli,3 - 2
+GW18,SATURDAY 17 January,Wolfsburg,Heidenheim,1 - 1
+GW18,SATURDAY 17 January,Hoffenheim,Bayer Leverkusen,1 - 0
+GW18,SATURDAY 17 January,Cologne,Mainz,2 - 1
+GW18,SATURDAY 17 January,Hamburg,Borussia Mönchengladbach,0 - 0
+GW18,SUNDAY 18 January,RB Leipzig,Bayern Munich,1 - 5
+GW18,SUNDAY 18 January,VfB Stuttgart,Union Berlin,1 - 1
+GW18,MONDAY 19 January,Augsburg,Freiburg,2 - 2
+GW19,SATURDAY 24 January,St. Pauli,Hamburg,0 - 0
+GW19,SATURDAY 24 January,Bayern Munich,Augsburg,1 - 2
+GW19,SATURDAY 24 January,Bayer Leverkusen,Werder Bremen,1 - 0
+GW19,SATURDAY 24 January,Eintracht Frankfurt,Hoffenheim,1 - 3
+GW19,SATURDAY 24 January,Mainz,Wolfsburg,3 - 1
+GW19,SATURDAY 24 January,Heidenheim,RB Leipzig,0 - 3
+GW19,SUNDAY 25 January,Union Berlin,Borussia Dortmund,0 - 3
+GW19,SUNDAY 25 January,Borussia Mönchengladbach,VfB Stuttgart,0 - 3
+GW19,MONDAY 26 January,Freiburg,Cologne,2 - 1
+GW20,SATURDAY 31 January,Cologne,Wolfsburg,1 - 0
+GW20,SATURDAY 31 January,Eintracht Frankfurt,Bayer Leverkusen,1 - 3
+GW20,SATURDAY 31 January,RB Leipzig,Mainz,1 - 2
+GW20,SATURDAY 31 January,Werder Bremen,Borussia Mönchengladbach,1 - 1
+GW20,SATURDAY 31 January,Augsburg,St. Pauli,2 - 1
+GW20,SATURDAY 31 January,Hoffenheim,Union Berlin,3 - 1
+GW20,SUNDAY 1 February,Hamburg,Bayern Munich,2 - 2
+GW20,SUNDAY 1 February,VfB Stuttgart,Freiburg,1 - 0
+GW20,MONDAY 2 February,Borussia Dortmund,Heidenheim,3 - 2
+GW21,SATURDAY 7 February,Union Berlin,Eintracht Frankfurt,1 - 1
+GW21,SATURDAY 7 February,Freiburg,Werder Bremen,1 - 0
+GW21,SATURDAY 7 February,Mainz,Augsburg,2 - 0
+GW21,SATURDAY 7 February,Wolfsburg,Borussia Dortmund,1 - 2
+GW21,SATURDAY 7 February,St. Pauli,VfB Stuttgart,2 - 1
+GW21,SATURDAY 7 February,Heidenheim,Hamburg,0 - 2
+GW21,SUNDAY 8 February,Borussia Mönchengladbach,Bayer Leverkusen,1 - 1
+GW21,SUNDAY 8 February,Cologne,RB Leipzig,1 - 2
+GW21,MONDAY 9 February,Bayern Munich,Hoffenheim,5 - 1
+GW22,SATURDAY 14 February,Borussia Dortmund,Mainz,4 - 0
+GW22,SATURDAY 14 February,Bayer Leverkusen,St. Pauli,4 - 0
+GW22,SATURDAY 14 February,Eintracht Frankfurt,Borussia Mönchengladbach,3 - 0
+GW22,SATURDAY 14 February,Werder Bremen,Bayern Munich,0 - 3
+GW22,SATURDAY 14 February,Hoffenheim,Freiburg,3 - 0
+GW22,SATURDAY 14 February,Hamburg,Union Berlin,3 - 2
+GW22,SUNDAY 15 February,VfB Stuttgart,Cologne,3 - 1
+GW22,SUNDAY 15 February,Augsburg,Heidenheim,1 - 0
+GW22,MONDAY 16 February,RB Leipzig,Wolfsburg,2 - 2
+GW23,SATURDAY 21 February,Mainz,Hamburg,1 - 1
+GW23,SATURDAY 21 February,Bayern Munich,Eintracht Frankfurt,3 - 2
+GW23,SATURDAY 21 February,Wolfsburg,Augsburg,2 - 3
+GW23,SATURDAY 21 February,Union Berlin,Bayer Leverkusen,1 - 0
+GW23,SATURDAY 21 February,Cologne,Hoffenheim,2 - 2
+GW23,SUNDAY 22 February,RB Leipzig,Borussia Dortmund,2 - 2
+GW23,SUNDAY 22 February,Freiburg,Borussia Mönchengladbach,2 - 1
+GW23,MONDAY 23 February,St. Pauli,Werder Bremen,2 - 1
+GW23,MONDAY 23 February,Heidenheim,VfB Stuttgart,3 - 3
+GW24,SATURDAY 28 February,Augsburg,Cologne,2 - 0
+GW24,SATURDAY 28 February,Bayer Leverkusen,Mainz,1 - 1
+GW24,SATURDAY 28 February,Werder Bremen,Heidenheim,2 - 0
+GW24,SATURDAY 28 February,Borussia Mönchengladbach,Union Berlin,1 - 0
+GW24,SATURDAY 28 February,Hoffenheim,St. Pauli,0 - 1
+GW24,SUNDAY 1 March,Borussia Dortmund,Bayern Munich,2 - 3
+GW24,SUNDAY 1 March,VfB Stuttgart,Wolfsburg,4 - 0
+GW24,MONDAY 2 March,Eintracht Frankfurt,Freiburg,2 - 0
+GW24,MONDAY 2 March,Hamburg,RB Leipzig,1 - 2
+GW25,SATURDAY 7 March,Bayern Munich,Borussia Mönchengladbach,4 - 1
+GW25,SATURDAY 7 March,Freiburg,Bayer Leverkusen,3 - 3
+GW25,SATURDAY 7 March,Mainz,VfB Stuttgart,2 - 2
+GW25,SATURDAY 7 March,RB Leipzig,Augsburg,2 - 1
+GW25,SATURDAY 7 March,Wolfsburg,Hamburg,1 - 2
+GW25,SATURDAY 7 March,Heidenheim,Hoffenheim,2 - 4
+GW25,SUNDAY 8 March,Cologne,Borussia Dortmund,1 - 2
+GW25,SUNDAY 8 March,St. Pauli,Eintracht Frankfurt,0 - 0
+GW25,MONDAY 9 March,Union Berlin,Werder Bremen,1 - 4
+GW26,SATURDAY 14 March,Borussia Mönchengladbach,St. Pauli,2 - 0
+GW26,SATURDAY 14 March,Bayer Leverkusen,Bayern Munich,1 - 1
+GW26,SATURDAY 14 March,Eintracht Frankfurt,Heidenheim,1 - 0
+GW26,SATURDAY 14 March,Borussia Dortmund,Augsburg,2 - 0
+GW26,SATURDAY 14 March,Hoffenheim,Wolfsburg,1 - 1
+GW26,SUNDAY 15 March,Hamburg,Cologne,1 - 1
+GW26,SUNDAY 15 March,Werder Bremen,Mainz,23:30
+GW26,MONDAY 16 March,Freiburg,Union Berlin,01:30
+GW26,MONDAY 16 March,VfB Stuttgart,RB Leipzig,03:30
+GW27,SATURDAY 21 March,RB Leipzig,Hoffenheim,04:30
+GW27,SATURDAY 21 March,Bayern Munich,Union Berlin,23:30
+GW27,SATURDAY 21 March,Wolfsburg,Werder Bremen,23:30
+GW27,SATURDAY 21 March,Heidenheim,Bayer Leverkusen,23:30
+GW27,SATURDAY 21 March,Cologne,Borussia Mönchengladbach,23:30
+GW27,SUNDAY 22 March,Borussia Dortmund,Hamburg,02:30
+GW27,SUNDAY 22 March,Mainz,Eintracht Frankfurt,23:30
+GW27,MONDAY 23 March,St. Pauli,Freiburg,01:30
+GW27,MONDAY 23 March,Augsburg,VfB Stuttgart,03:30
+GW28,SATURDAY 4 April,Bayer Leverkusen,Wolfsburg,22:30
+GW28,SATURDAY 4 April,Freiburg,Bayern Munich,22:30
+GW28,SATURDAY 4 April,Werder Bremen,RB Leipzig,22:30
+GW28,SATURDAY 4 April,Borussia Mönchengladbach,Heidenheim,22:30
+GW28,SATURDAY 4 April,Hoffenheim,Mainz,22:30
+GW28,SATURDAY 4 April,Hamburg,Augsburg,22:30
+GW28,SUNDAY 5 April,VfB Stuttgart,Borussia Dortmund,01:30
+GW28,SUNDAY 5 April,Union Berlin,St. Pauli,22:30
+GW28,MONDAY 6 April,Eintracht Frankfurt,Cologne,00:30
+GW29,SATURDAY 11 April,Augsburg,Hoffenheim,03:30
+GW29,SATURDAY 11 April,Borussia Dortmund,Bayer Leverkusen,22:30
+GW29,SATURDAY 11 April,RB Leipzig,Borussia Mönchengladbach,22:30
+GW29,SATURDAY 11 April,Wolfsburg,Eintracht Frankfurt,22:30
+GW29,SATURDAY 11 April,Heidenheim,Union Berlin,22:30
+GW29,SUNDAY 12 April,St. Pauli,Bayern Munich,01:30
+GW29,SUNDAY 12 April,Cologne,Werder Bremen,22:30
+GW29,MONDAY 13 April,VfB Stuttgart,Hamburg,00:30
+GW29,MONDAY 13 April,Mainz,Freiburg,02:30
+GW30,SATURDAY 18 April,St. Pauli,Cologne,03:30
+GW30,SATURDAY 18 April,Bayer Leverkusen,Augsburg,22:30
+GW30,SATURDAY 18 April,Werder Bremen,Hamburg,22:30
+GW30,SATURDAY 18 April,Union Berlin,Wolfsburg,22:30
+GW30,SATURDAY 18 April,Hoffenheim,Borussia Dortmund,22:30
+GW30,SUNDAY 19 April,Eintracht Frankfurt,RB Leipzig,01:30
+GW30,SUNDAY 19 April,Freiburg,Heidenheim,22:30
+GW30,MONDAY 20 April,Bayern Munich,VfB Stuttgart,00:30
+GW30,MONDAY 20 April,Borussia Mönchengladbach,Mainz,02:30
+GW31,FRIDAY - SUNDAY 24 April - 26 April,Borussia Dortmund,Freiburg,--
+GW31,FRIDAY - SUNDAY 24 April - 26 April,Mainz,Bayern Munich,--
+GW31,FRIDAY - SUNDAY 24 April - 26 April,RB Leipzig,Union Berlin,--
+GW31,FRIDAY - SUNDAY 24 April - 26 April,VfB Stuttgart,Werder Bremen,--
+GW31,FRIDAY - SUNDAY 24 April - 26 April,Wolfsburg,Borussia Mönchengladbach,--
+GW31,FRIDAY - SUNDAY 24 April - 26 April,Augsburg,Eintracht Frankfurt,--
+GW31,FRIDAY - SUNDAY 24 April - 26 April,Heidenheim,St. Pauli,--
+GW31,FRIDAY - SUNDAY 24 April - 26 April,Cologne,Bayer Leverkusen,--
+GW31,FRIDAY - SUNDAY 24 April - 26 April,Hamburg,Hoffenheim,--
+GW32,SATURDAY - SUNDAY 2 May - 3 May,Bayern Munich,Heidenheim,--
+GW32,SATURDAY - SUNDAY 2 May - 3 May,Bayer Leverkusen,RB Leipzig,--
+GW32,SATURDAY - SUNDAY 2 May - 3 May,Eintracht Frankfurt,Hamburg,--
+GW32,SATURDAY - SUNDAY 2 May - 3 May,Freiburg,Wolfsburg,--
+GW32,SATURDAY - SUNDAY 2 May - 3 May,Werder Bremen,Augsburg,--
+GW32,SATURDAY - SUNDAY 2 May - 3 May,Borussia Mönchengladbach,Borussia Dortmund,--
+GW32,SATURDAY - SUNDAY 2 May - 3 May,Union Berlin,Cologne,--
+GW32,SATURDAY - SUNDAY 2 May - 3 May,St. Pauli,Mainz,--
+GW32,SATURDAY - SUNDAY 2 May - 3 May,Hoffenheim,VfB Stuttgart,--
+GW33,FRIDAY - SUNDAY 8 May - 10 May,Borussia Dortmund,Eintracht Frankfurt,--
+GW33,FRIDAY - SUNDAY 8 May - 10 May,Mainz,Union Berlin,--
+GW33,FRIDAY - SUNDAY 8 May - 10 May,RB Leipzig,St. Pauli,--
+GW33,FRIDAY - SUNDAY 8 May - 10 May,VfB Stuttgart,Bayer Leverkusen,--
+GW33,FRIDAY - SUNDAY 8 May - 10 May,Wolfsburg,Bayern Munich,--
+GW33,FRIDAY - SUNDAY 8 May - 10 May,Augsburg,Borussia Mönchengladbach,--
+GW33,FRIDAY - SUNDAY 8 May - 10 May,Hoffenheim,Werder Bremen,--
+GW33,FRIDAY - SUNDAY 8 May - 10 May,Cologne,Heidenheim,--
+GW33,FRIDAY - SUNDAY 8 May - 10 May,Hamburg,Freiburg,--
+GW34,SATURDAY 16 May,Bayern Munich,Cologne,22:30
+GW34,SATURDAY 16 May,Bayer Leverkusen,Hamburg,22:30
+GW34,SATURDAY 16 May,Eintracht Frankfurt,VfB Stuttgart,22:30
+GW34,SATURDAY 16 May,Freiburg,RB Leipzig,22:30
+GW34,SATURDAY 16 May,Werder Bremen,Borussia Dortmund,22:30
+GW34,SATURDAY 16 May,Borussia Mönchengladbach,Hoffenheim,22:30
+GW34,SATURDAY 16 May,Union Berlin,Augsburg,22:30
+GW34,SATURDAY 16 May,St. Pauli,Wolfsburg,22:30
+GW34,SATURDAY 16 May,Heidenheim,Mainz,22:30
