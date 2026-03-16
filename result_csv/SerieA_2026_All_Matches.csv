@@ -279,15 +279,15 @@ GW28,"dom, 8 mar | 15:00",FIORENTINA,PARMA,0 - 0
 GW28,"dom, 8 mar | 18:00",GENOA,ROMA,2 - 1
 GW28,"dom, 8 mar | 20:45",MILAN,INTER,1 - 0
 GW28,"lun, 9 mar | 20:45",LAZIO,SASSUOLO,2 - 1
-GW29,"ven, 13 mar | 19:45",TORINO,PARMA,--
-GW29,"sab, 14 mar | 14:00",INTER,ATALANTA,--
-GW29,"sab, 14 mar | 17:00",NAPOLI,LECCE,--
-GW29,"sab, 14 mar | 19:45",UDINESE,JUVENTUS,--
-GW29,"dom, 15 mar | 11:30",VERONA,GENOA,--
-GW29,"dom, 15 mar | 14:00",PISA,CAGLIARI,--
-GW29,"dom, 15 mar | 14:00",SASSUOLO,BOLOGNA,--
-GW29,"dom, 15 mar | 17:00",COMO,ROMA,--
-GW29,"dom, 15 mar | 19:45",LAZIO,MILAN,--
+GW29,"ven, 13 mar | 20:45",TORINO,PARMA,4 - 1
+GW29,"sab, 14 mar | 15:00",INTER,ATALANTA,1 - 1
+GW29,"sab, 14 mar | 18:00",NAPOLI,LECCE,2 - 1
+GW29,"sab, 14 mar | 20:45",UDINESE,JUVENTUS,0 - 1
+GW29,"dom, 15 mar | 12:30",VERONA,GENOA,0 - 2
+GW29,"dom, 15 mar | 15:00",PISA,CAGLIARI,3 - 1
+GW29,"dom, 15 mar | 15:00",SASSUOLO,BOLOGNA,0 - 1
+GW29,"dom, 15 mar | 18:00",COMO,ROMA,2 - 1
+GW29,"dom, 15 mar | 20:45",LAZIO,MILAN,1 - 0
 GW29,"lun, 16 mar | 19:45",CREMONESE,FIORENTINA,--
 GW30,"ven, 20 mar | 17:30",CAGLIARI,NAPOLI,--
 GW30,"ven, 20 mar | 19:45",GENOA,UDINESE,--

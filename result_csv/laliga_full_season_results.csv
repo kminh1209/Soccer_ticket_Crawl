@@ -269,15 +269,15 @@ GW27,SUN 08.03.2026,16:15,Getafe CF,Real Betis,2 - 0
 GW27,SUN 08.03.2026,18:30,Sevilla FC,Rayo Vallecano,1 - 1
 GW27,SUN 08.03.2026,21:00,Valencia CF,Deportivo Alavés,3 - 2
 GW27,MON 09.03.2026,21:00,RCD Espanyol de Barcelona,Real Oviedo,1 - 1
-GW28,FRI 13.03.2026,21:00,Deportivo Alavés VS Villarreal CF,Match Pending,Match Pending
-GW28,SAT 14.03.2026,14:00,Girona FC VS Athletic Club,Match Pending,Match Pending
-GW28,SAT 14.03.2026,16:15,Atlético de Madrid VS Getafe CF,Match Pending,Match Pending
-GW28,SAT 14.03.2026,18:30,Real Oviedo VS Valencia CF,Match Pending,Match Pending
-GW28,SAT 14.03.2026,21:00,Real Madrid VS Elche CF,Match Pending,Match Pending
-GW28,SUN 15.03.2026,14:00,RCD Mallorca VS RCD Espanyol de Barcelona,Match Pending,Match Pending
-GW28,SUN 15.03.2026,16:15,FC Barcelona VS Sevilla FC,Match Pending,Match Pending
-GW28,SUN 15.03.2026,18:30,Real Betis VS Celta,Match Pending,Match Pending
-GW28,SUN 15.03.2026,21:00,Real Sociedad VS CA Osasuna,Match Pending,Match Pending
+GW28,FRI 13.03.2026,21:00,Deportivo Alavés,Villarreal CF,1 - 1
+GW28,SAT 14.03.2026,14:00,Girona FC,Athletic Club,3 - 0
+GW28,SAT 14.03.2026,16:15,Atlético de Madrid,Getafe CF,1 - 0
+GW28,SAT 14.03.2026,18:30,Real Oviedo,Valencia CF,1 - 0
+GW28,SAT 14.03.2026,21:00,Real Madrid,Elche CF,4 - 1
+GW28,SUN 15.03.2026,14:00,RCD Mallorca,RCD Espanyol de Barcelona,2 - 1
+GW28,SUN 15.03.2026,16:15,FC Barcelona,Sevilla FC,5 - 2
+GW28,SUN 15.03.2026,18:30,Real Betis,Celta,1 - 1
+GW28,SUN 15.03.2026,21:00,Real Sociedad,CA Osasuna,3 - 1
 GW28,MON 16.03.2026,21:00,Rayo Vallecano VS Levante UD,Match Pending,Match Pending
 GW29,FRI 20.03.2026,21:00,Villarreal CF VS Real Sociedad,Match Pending,Match Pending
 GW29,SAT 21.03.2026,14:00,Elche CF VS RCD Mallorca,Match Pending,Match Pending
@@ -289,16 +289,16 @@ GW29,SUN 22.03.2026,14:00,FC Barcelona VS Rayo Vallecano,Match Pending,Match Pen
 GW29,SUN 22.03.2026,16:15,Celta VS Deportivo Alavés,Match Pending,Match Pending
 GW29,SUN 22.03.2026,18:30,Athletic Club VS Real Betis,Match Pending,Match Pending
 GW29,SUN 22.03.2026,21:00,Real Madrid VS Atlético de Madrid,Match Pending,Match Pending
-GW30,SUN 05.04.2026,-- : --,Deportivo Alavés VS CA Osasuna,Match Pending,Match Pending
-GW30,SUN 05.04.2026,-- : --,Atlético de Madrid VS FC Barcelona,Match Pending,Match Pending
-GW30,SUN 05.04.2026,-- : --,Real Betis VS RCD Espanyol de Barcelona,Match Pending,Match Pending
-GW30,SUN 05.04.2026,-- : --,Girona FC VS Villarreal CF,Match Pending,Match Pending
-GW30,SUN 05.04.2026,-- : --,RCD Mallorca VS Real Madrid,Match Pending,Match Pending
-GW30,SUN 05.04.2026,-- : --,Real Oviedo VS Sevilla FC,Match Pending,Match Pending
-GW30,SUN 05.04.2026,-- : --,Getafe CF VS Athletic Club,Match Pending,Match Pending
-GW30,SUN 05.04.2026,-- : --,Valencia CF VS Celta,Match Pending,Match Pending
-GW30,SUN 05.04.2026,-- : --,Rayo Vallecano VS Elche CF,Match Pending,Match Pending
-GW30,SUN 05.04.2026,-- : --,Real Sociedad VS Levante UD,Match Pending,Match Pending
+GW30,FRI 03.04.2026,21:00,Rayo Vallecano VS Elche CF,Match Pending,Match Pending
+GW30,SAT 04.04.2026,14:00,Real Sociedad VS Levante UD,Match Pending,Match Pending
+GW30,SAT 04.04.2026,16:15,RCD Mallorca VS Real Madrid,Match Pending,Match Pending
+GW30,SAT 04.04.2026,18:30,Deportivo Alavés VS CA Osasuna,Match Pending,Match Pending
+GW30,SAT 04.04.2026,21:00,Atlético de Madrid VS FC Barcelona,Match Pending,Match Pending
+GW30,SUN 05.04.2026,14:00,Getafe CF VS Athletic Club,Match Pending,Match Pending
+GW30,SUN 05.04.2026,16:15,Valencia CF VS Celta,Match Pending,Match Pending
+GW30,SUN 05.04.2026,18:30,Real Oviedo VS Sevilla FC,Match Pending,Match Pending
+GW30,SUN 05.04.2026,21:00,Real Betis VS RCD Espanyol de Barcelona,Match Pending,Match Pending
+GW30,MON 06.04.2026,21:00,Girona FC VS Villarreal CF,Match Pending,Match Pending
 GW31,SUN 12.04.2026,-- : --,Athletic Club VS Villarreal CF,Match Pending,Match Pending
 GW31,SUN 12.04.2026,-- : --,FC Barcelona VS RCD Espanyol de Barcelona,Match Pending,Match Pending
 GW31,SUN 12.04.2026,-- : --,Celta VS Real Oviedo,Match Pending,Match Pending

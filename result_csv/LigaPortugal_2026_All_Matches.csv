@@ -224,14 +224,14 @@ GW25,DOM. 08 MAR,Estrela Amadora,Gil Vicente FC,2 - 2
 GW25,DOM. 08 MAR,SL Benfica,FC Porto,2 - 2
 GW25,DOM. 08 MAR,Santa Clara,Vitória SC,2 - 0
 GW25,SEG. 09 MAR,CD Tondela,Rio Ave FC,0 - 1
-GW26,SAB. 14 MAR,Vitória SC,FC Famalicão,15H30
-GW26,SAB. 14 MAR,Gil Vicente FC,FC Alverca,18H00
-GW26,SAB. 14 MAR,FC Arouca,SL Benfica,20H30
-GW26,DOM. 15 MAR,CD Nacional,Estoril Praia,15H30
-GW26,DOM. 15 MAR,AFS,Santa Clara,15H30
+GW26,SAB. 14 MAR,Vitória SC,FC Famalicão,1 - 2
+GW26,SAB. 14 MAR,Gil Vicente FC,FC Alverca,2 - 2
+GW26,SAB. 14 MAR,FC Arouca,SL Benfica,1 - 2
+GW26,DOM. 15 MAR,CD Nacional,Estoril Praia,0 - 1
+GW26,DOM. 15 MAR,AFS,Santa Clara,0 - 1
 GW26,DOM. 15 MAR,Sporting CP,CD Tondela,15H30
-GW26,DOM. 15 MAR,Rio Ave FC,Estrela Amadora,18H00
-GW26,DOM. 15 MAR,FC Porto,Moreirense FC,20H30
+GW26,DOM. 15 MAR,Rio Ave FC,Estrela Amadora,2 - 1
+GW26,DOM. 15 MAR,FC Porto,Moreirense FC,3 - 0
 GW26,QUI. 23 ABR,Casa Pia AC,SC Braga,19H15
 GW27,SEX. 20 MAR,Estrela Amadora,Casa Pia AC,20H15
 GW27,SAB. 21 MAR,Moreirense FC,FC Arouca,15H30
@@ -251,15 +251,15 @@ GW28,SEX. 03 ABR,Moreirense FC,SC Braga,--
 GW28,SEX. 03 ABR,Casa Pia AC,SL Benfica,--
 GW28,SEX. 03 ABR,FC Arouca,Estoril Praia,--
 GW28,SEX. 03 ABR,Vitória SC,CD Tondela,--
-GW29,SAB. 11 ABR,AFS,Vitória SC,--
-GW29,SAB. 11 ABR,SL Benfica,CD Nacional,--
-GW29,SAB. 11 ABR,FC Alverca,Casa Pia AC,--
 GW29,SAB. 11 ABR,SC Braga,FC Arouca,--
-GW29,SAB. 11 ABR,FC Famalicão,Moreirense FC,--
+GW29,SAB. 11 ABR,CD Tondela,Gil Vicente FC,--
+GW29,SAB. 11 ABR,AFS,Vitória SC,--
 GW29,SAB. 11 ABR,Estoril Praia,FC Porto,--
 GW29,SAB. 11 ABR,Estrela Amadora,Sporting CP,--
-GW29,SAB. 11 ABR,CD Tondela,Gil Vicente FC,--
+GW29,SAB. 11 ABR,FC Alverca,Casa Pia AC,--
+GW29,SAB. 11 ABR,FC Famalicão,Moreirense FC,--
 GW29,SAB. 11 ABR,Santa Clara,Rio Ave FC,--
+GW29,SAB. 11 ABR,SL Benfica,CD Nacional,--
 GW30,SAB. 18 ABR,Rio Ave FC,AFS,--
 GW30,SAB. 18 ABR,Moreirense FC,Estoril Praia,--
 GW30,SAB. 18 ABR,CD Nacional,FC Alverca,--
@@ -278,24 +278,24 @@ GW31,SAB. 25 ABR,Estrela Amadora,FC Porto,--
 GW31,SAB. 25 ABR,FC Alverca,FC Arouca,--
 GW31,SAB. 25 ABR,SL Benfica,Moreirense FC,--
 GW31,SAB. 25 ABR,Vitória SC,Rio Ave FC,--
-GW32,SAB. 02 MAI,Rio Ave FC,Gil Vicente FC,--
-GW32,SAB. 02 MAI,Casa Pia AC,CD Tondela,--
+GW32,SAB. 02 MAI,CD Nacional,AFS,--
 GW32,SAB. 02 MAI,Moreirense FC,Estrela Amadora,--
-GW32,SAB. 02 MAI,FC Arouca,Santa Clara,--
+GW32,SAB. 02 MAI,FC Porto,FC Alverca,--
+GW32,SAB. 02 MAI,Rio Ave FC,Gil Vicente FC,--
 GW32,SAB. 02 MAI,FC Famalicão,SL Benfica,--
 GW32,SAB. 02 MAI,Sporting CP,Vitória SC,--
-GW32,SAB. 02 MAI,FC Porto,FC Alverca,--
+GW32,SAB. 02 MAI,Casa Pia AC,CD Tondela,--
+GW32,SAB. 02 MAI,FC Arouca,Santa Clara,--
 GW32,SAB. 02 MAI,SC Braga,Estoril Praia,--
-GW32,SAB. 02 MAI,CD Nacional,AFS,--
-GW33,SAB. 09 MAI,Rio Ave FC,Sporting CP,--
 GW33,SAB. 09 MAI,Vitória SC,Casa Pia AC,--
-GW33,SAB. 09 MAI,AFS,FC Porto,--
 GW33,SAB. 09 MAI,Gil Vicente FC,FC Arouca,--
+GW33,SAB. 09 MAI,CD Tondela,Moreirense FC,--
+GW33,SAB. 09 MAI,AFS,FC Porto,--
 GW33,SAB. 09 MAI,Estrela Amadora,FC Famalicão,--
+GW33,SAB. 09 MAI,FC Alverca,Estoril Praia,--
+GW33,SAB. 09 MAI,Rio Ave FC,Sporting CP,--
 GW33,SAB. 09 MAI,Santa Clara,CD Nacional,--
 GW33,SAB. 09 MAI,SL Benfica,SC Braga,--
-GW33,SAB. 09 MAI,CD Tondela,Moreirense FC,--
-GW33,SAB. 09 MAI,FC Alverca,Estoril Praia,--
 GW34,SAB. 16 MAI,Moreirense FC,AFS,--
 GW34,SAB. 16 MAI,FC Famalicão,FC Alverca,--
 GW34,SAB. 16 MAI,Sporting CP,Gil Vicente FC,--
