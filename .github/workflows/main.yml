@@ -36,6 +36,7 @@ jobs:
           python eredivisie.py
           python ligaportugal.py
           python bundesliga.py
+          uefa_cl.py
 
       - name: Commit and push changes
         env:
