@@ -289,16 +289,16 @@ GW29,"dom, 15 mar | 15:00",SASSUOLO,BOLOGNA,0 - 1
 GW29,"dom, 15 mar | 18:00",COMO,ROMA,2 - 1
 GW29,"dom, 15 mar | 20:45",LAZIO,MILAN,1 - 0
 GW29,"lun, 16 mar | 20:45",CREMONESE,FIORENTINA,1 - 4
-GW30,"ven, 20 mar | 17:30",CAGLIARI,NAPOLI,--
-GW30,"ven, 20 mar | 19:45",GENOA,UDINESE,--
-GW30,"sab, 21 mar | 14:00",PARMA,CREMONESE,--
-GW30,"sab, 21 mar | 17:00",MILAN,TORINO,--
-GW30,"sab, 21 mar | 19:45",JUVENTUS,SASSUOLO,--
-GW30,"dom, 22 mar | 11:30",COMO,PISA,--
-GW30,"dom, 22 mar | 14:00",ATALANTA,VERONA,--
-GW30,"dom, 22 mar | 14:00",BOLOGNA,LAZIO,--
-GW30,"dom, 22 mar | 17:00",ROMA,LECCE,--
-GW30,"dom, 22 mar | 19:45",FIORENTINA,INTER,--
+GW30,"ven, 20 mar | 18:30",CAGLIARI,NAPOLI,0 - 1
+GW30,"ven, 20 mar | 20:45",GENOA,UDINESE,0 - 2
+GW30,"sab, 21 mar | 15:00",PARMA,CREMONESE,0 - 2
+GW30,"sab, 21 mar | 18:00",MILAN,TORINO,3 - 2
+GW30,"sab, 21 mar | 20:45",JUVENTUS,SASSUOLO,1 - 1
+GW30,"dom, 22 mar | 12:30",COMO,PISA,5 - 0
+GW30,"dom, 22 mar | 15:00",ATALANTA,VERONA,1 - 0
+GW30,"dom, 22 mar | 15:00",BOLOGNA,LAZIO,0 - 2
+GW30,"dom, 22 mar | 18:00",ROMA,LECCE,1 - 0
+GW30,"dom, 22 mar | 20:45",FIORENTINA,INTER,1 - 1
 GW31,"sab, 4 apr | 13:00",SASSUOLO,CAGLIARI,--
 GW31,"sab, 4 apr | 16:00",VERONA,FIORENTINA,--
 GW31,"sab, 4 apr | 18:45",LAZIO,PARMA,--
@@ -309,36 +309,36 @@ GW31,"lun, 6 apr | 10:30",UDINESE,COMO,--
 GW31,"lun, 6 apr | 13:00",LECCE,ATALANTA,--
 GW31,"lun, 6 apr | 16:00",JUVENTUS,GENOA,--
 GW31,"lun, 6 apr | 18:45",NAPOLI,MILAN,--
-GW32,"dom, 12 apr | 13:00",ATALANTA,JUVENTUS,--
-GW32,"dom, 12 apr | 13:00",BOLOGNA,LECCE,--
-GW32,"dom, 12 apr | 13:00",CAGLIARI,CREMONESE,--
-GW32,"dom, 12 apr | 13:00",COMO,INTER,--
-GW32,"dom, 12 apr | 13:00",FIORENTINA,LAZIO,--
-GW32,"dom, 12 apr | 13:00",GENOA,SASSUOLO,--
-GW32,"dom, 12 apr | 13:00",MILAN,UDINESE,--
+GW32,"ven, 10 apr | 18:45",ROMA,PISA,--
+GW32,"sab, 11 apr | 13:00",CAGLIARI,CREMONESE,--
+GW32,"sab, 11 apr | 13:00",TORINO,VERONA,--
+GW32,"sab, 11 apr | 16:00",MILAN,UDINESE,--
+GW32,"sab, 11 apr | 18:45",ATALANTA,JUVENTUS,--
+GW32,"dom, 12 apr | 10:30",GENOA,SASSUOLO,--
 GW32,"dom, 12 apr | 13:00",PARMA,NAPOLI,--
-GW32,"dom, 12 apr | 13:00",ROMA,PISA,--
-GW32,"dom, 12 apr | 13:00",TORINO,VERONA,--
-GW33,"dom, 19 apr | 13:00",CREMONESE,TORINO,--
-GW33,"dom, 19 apr | 13:00",INTER,CAGLIARI,--
-GW33,"dom, 19 apr | 13:00",JUVENTUS,BOLOGNA,--
-GW33,"dom, 19 apr | 13:00",LECCE,FIORENTINA,--
-GW33,"dom, 19 apr | 13:00",NAPOLI,LAZIO,--
-GW33,"dom, 19 apr | 13:00",PISA,GENOA,--
-GW33,"dom, 19 apr | 13:00",ROMA,ATALANTA,--
-GW33,"dom, 19 apr | 13:00",SASSUOLO,COMO,--
-GW33,"dom, 19 apr | 13:00",UDINESE,PARMA,--
+GW32,"dom, 12 apr | 16:00",BOLOGNA,LECCE,--
+GW32,"dom, 12 apr | 18:45",COMO,INTER,--
+GW32,"lun, 13 apr | 18:45",FIORENTINA,LAZIO,--
+GW33,"ven, 17 apr | 16:30",SASSUOLO,COMO,--
+GW33,"ven, 17 apr | 18:45",INTER,CAGLIARI,--
+GW33,"sab, 18 apr | 13:00",UDINESE,PARMA,--
+GW33,"sab, 18 apr | 16:00",NAPOLI,LAZIO,--
+GW33,"sab, 18 apr | 18:45",ROMA,ATALANTA,--
+GW33,"dom, 19 apr | 10:30",CREMONESE,TORINO,--
 GW33,"dom, 19 apr | 13:00",VERONA,MILAN,--
-GW34,"dom, 26 apr | 13:00",BOLOGNA,ROMA,--
-GW34,"dom, 26 apr | 13:00",CAGLIARI,ATALANTA,--
-GW34,"dom, 26 apr | 13:00",FIORENTINA,SASSUOLO,--
+GW33,"dom, 19 apr | 16:00",PISA,GENOA,--
+GW33,"dom, 19 apr | 18:45",JUVENTUS,BOLOGNA,--
+GW33,"lun, 20 apr | 18:45",LECCE,FIORENTINA,--
+GW34,"ven, 24 apr | 18:45",NAPOLI,CREMONESE,--
+GW34,"sab, 25 apr | 13:00",PARMA,PISA,--
+GW34,"sab, 25 apr | 16:00",BOLOGNA,ROMA,--
+GW34,"sab, 25 apr | 18:45",VERONA,LECCE,--
+GW34,"dom, 26 apr | 10:30",FIORENTINA,SASSUOLO,--
 GW34,"dom, 26 apr | 13:00",GENOA,COMO,--
-GW34,"dom, 26 apr | 13:00",LAZIO,UDINESE,--
-GW34,"dom, 26 apr | 13:00",MILAN,JUVENTUS,--
-GW34,"dom, 26 apr | 13:00",NAPOLI,CREMONESE,--
-GW34,"dom, 26 apr | 13:00",PARMA,PISA,--
-GW34,"dom, 26 apr | 13:00",TORINO,INTER,--
-GW34,"dom, 26 apr | 13:00",VERONA,LECCE,--
+GW34,"dom, 26 apr | 16:00",TORINO,INTER,--
+GW34,"dom, 26 apr | 18:45",MILAN,JUVENTUS,--
+GW34,"lun, 27 apr | 16:30",CAGLIARI,ATALANTA,--
+GW34,"lun, 27 apr | 18:45",LAZIO,UDINESE,--
 GW35,"dom, 3 mag | 13:00",ATALANTA,GENOA,--
 GW35,"dom, 3 mag | 13:00",BOLOGNA,CAGLIARI,--
 GW35,"dom, 3 mag | 13:00",COMO,NAPOLI,--
