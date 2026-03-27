@@ -242,33 +242,33 @@ GW27,SAB. 21 MAR,CD Tondela,AFS,0 - 0
 GW27,DOM. 22 MAR,Estoril Praia,Rio Ave FC,1 - 2
 GW27,DOM. 22 MAR,FC Alverca,Sporting CP,1 - 4
 GW27,DOM. 22 MAR,SC Braga,FC Porto,1 - 2
-GW28,SEX. 03 ABR,Gil Vicente FC,AFS,--
-GW28,SEX. 03 ABR,CD Nacional,Estrela Amadora,--
-GW28,SEX. 03 ABR,Rio Ave FC,FC Alverca,--
-GW28,SEX. 03 ABR,FC Porto,FC Famalicão,--
-GW28,SEX. 03 ABR,Sporting CP,Santa Clara,--
-GW28,SEX. 03 ABR,Moreirense FC,SC Braga,--
-GW28,SEX. 03 ABR,Casa Pia AC,SL Benfica,--
-GW28,SEX. 03 ABR,FC Arouca,Estoril Praia,--
-GW28,SEX. 03 ABR,Vitória SC,CD Tondela,--
-GW29,SAB. 11 ABR,SC Braga,FC Arouca,--
-GW29,SAB. 11 ABR,CD Tondela,Gil Vicente FC,--
-GW29,SAB. 11 ABR,AFS,Vitória SC,--
-GW29,SAB. 11 ABR,Estoril Praia,FC Porto,--
-GW29,SAB. 11 ABR,Estrela Amadora,Sporting CP,--
-GW29,SAB. 11 ABR,FC Alverca,Casa Pia AC,--
-GW29,SAB. 11 ABR,FC Famalicão,Moreirense FC,--
-GW29,SAB. 11 ABR,Santa Clara,Rio Ave FC,--
-GW29,SAB. 11 ABR,SL Benfica,CD Nacional,--
-GW30,SAB. 18 ABR,Rio Ave FC,AFS,--
-GW30,SAB. 18 ABR,Moreirense FC,Estoril Praia,--
-GW30,SAB. 18 ABR,CD Nacional,FC Alverca,--
-GW30,SAB. 18 ABR,Casa Pia AC,Santa Clara,--
-GW30,SAB. 18 ABR,Sporting CP,SL Benfica,--
-GW30,SAB. 18 ABR,Gil Vicente FC,Vitória SC,--
-GW30,SAB. 18 ABR,FC Arouca,Estrela Amadora,--
-GW30,SAB. 18 ABR,FC Porto,CD Tondela,--
-GW30,SAB. 18 ABR,SC Braga,FC Famalicão,--
+GW28,SEX. 03 ABR,Gil Vicente FC,AFS,14H30
+GW28,SEX. 03 ABR,Vitória SC,CD Tondela,17H00
+GW28,SEX. 03 ABR,Sporting CP,Santa Clara,19H30
+GW28,SAB. 04 ABR,CD Nacional,Estrela Amadora,14H30
+GW28,SAB. 04 ABR,Rio Ave FC,FC Alverca,17H00
+GW28,SAB. 04 ABR,Moreirense FC,SC Braga,17H00
+GW28,SAB. 04 ABR,FC Porto,FC Famalicão,19H30
+GW28,SEG. 06 ABR,FC Arouca,Estoril Praia,17H45
+GW28,SEG. 06 ABR,Casa Pia AC,SL Benfica,19H45
+GW29,SEX. 10 ABR,FC Famalicão,Moreirense FC,19H45
+GW29,SAB. 11 ABR,AFS,Vitória SC,14H30
+GW29,SAB. 11 ABR,Santa Clara,Rio Ave FC,17H00
+GW29,SAB. 11 ABR,Estrela Amadora,Sporting CP,19H30
+GW29,DOM. 12 ABR,FC Alverca,Casa Pia AC,14H30
+GW29,DOM. 12 ABR,SC Braga,FC Arouca,17H00
+GW29,DOM. 12 ABR,SL Benfica,CD Nacional,17H00
+GW29,DOM. 12 ABR,Estoril Praia,FC Porto,19H30
+GW29,SEG. 13 ABR,CD Tondela,Gil Vicente FC,19H15
+GW30,SEX. 17 ABR,Rio Ave FC,AFS,19H45
+GW30,SAB. 18 ABR,CD Nacional,FC Alverca,14H30
+GW30,SAB. 18 ABR,Casa Pia AC,Santa Clara,17H00
+GW30,SAB. 18 ABR,Gil Vicente FC,Vitória SC,19H30
+GW30,DOM. 19 ABR,FC Arouca,Estrela Amadora,14H30
+GW30,DOM. 19 ABR,Sporting CP,SL Benfica,17H00
+GW30,DOM. 19 ABR,FC Porto,CD Tondela,19H30
+GW30,DOM. 19 ABR,SC Braga,FC Famalicão,19H30
+GW30,SEG. 20 ABR,Moreirense FC,Estoril Praia,19H15
 GW31,SAB. 25 ABR,Gil Vicente FC,Casa Pia AC,--
 GW31,SAB. 25 ABR,CD Tondela,CD Nacional,--
 GW31,SAB. 25 ABR,Santa Clara,SC Braga,--
