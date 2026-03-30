@@ -269,33 +269,33 @@ GW30,SATURDAY 18 April,Eintracht Frankfurt,RB Leipzig,16:30
 GW30,SUNDAY 19 April,Freiburg,Heidenheim,13:30
 GW30,SUNDAY 19 April,Bayern Munich,VfB Stuttgart,15:30
 GW30,SUNDAY 19 April,Borussia Mönchengladbach,Mainz,17:30
-GW31,FRIDAY - SUNDAY 24 April - 26 April,Borussia Dortmund,Freiburg,--
-GW31,FRIDAY - SUNDAY 24 April - 26 April,Mainz,Bayern Munich,--
-GW31,FRIDAY - SUNDAY 24 April - 26 April,RB Leipzig,Union Berlin,--
-GW31,FRIDAY - SUNDAY 24 April - 26 April,VfB Stuttgart,Werder Bremen,--
-GW31,FRIDAY - SUNDAY 24 April - 26 April,Wolfsburg,Borussia Mönchengladbach,--
-GW31,FRIDAY - SUNDAY 24 April - 26 April,Augsburg,Eintracht Frankfurt,--
-GW31,FRIDAY - SUNDAY 24 April - 26 April,Heidenheim,St. Pauli,--
-GW31,FRIDAY - SUNDAY 24 April - 26 April,Cologne,Bayer Leverkusen,--
-GW31,FRIDAY - SUNDAY 24 April - 26 April,Hamburg,Hoffenheim,--
-GW32,SATURDAY - SUNDAY 2 May - 3 May,Bayern Munich,Heidenheim,--
-GW32,SATURDAY - SUNDAY 2 May - 3 May,Bayer Leverkusen,RB Leipzig,--
-GW32,SATURDAY - SUNDAY 2 May - 3 May,Eintracht Frankfurt,Hamburg,--
-GW32,SATURDAY - SUNDAY 2 May - 3 May,Freiburg,Wolfsburg,--
-GW32,SATURDAY - SUNDAY 2 May - 3 May,Werder Bremen,Augsburg,--
-GW32,SATURDAY - SUNDAY 2 May - 3 May,Borussia Mönchengladbach,Borussia Dortmund,--
-GW32,SATURDAY - SUNDAY 2 May - 3 May,Union Berlin,Cologne,--
-GW32,SATURDAY - SUNDAY 2 May - 3 May,St. Pauli,Mainz,--
-GW32,SATURDAY - SUNDAY 2 May - 3 May,Hoffenheim,VfB Stuttgart,--
-GW33,FRIDAY - SUNDAY 8 May - 10 May,Borussia Dortmund,Eintracht Frankfurt,--
-GW33,FRIDAY - SUNDAY 8 May - 10 May,Mainz,Union Berlin,--
-GW33,FRIDAY - SUNDAY 8 May - 10 May,RB Leipzig,St. Pauli,--
-GW33,FRIDAY - SUNDAY 8 May - 10 May,VfB Stuttgart,Bayer Leverkusen,--
-GW33,FRIDAY - SUNDAY 8 May - 10 May,Wolfsburg,Bayern Munich,--
-GW33,FRIDAY - SUNDAY 8 May - 10 May,Augsburg,Borussia Mönchengladbach,--
-GW33,FRIDAY - SUNDAY 8 May - 10 May,Hoffenheim,Werder Bremen,--
-GW33,FRIDAY - SUNDAY 8 May - 10 May,Cologne,Heidenheim,--
-GW33,FRIDAY - SUNDAY 8 May - 10 May,Hamburg,Freiburg,--
+GW31,FRIDAY 24 April,RB Leipzig,Union Berlin,18:30
+GW31,SATURDAY 25 April,Mainz,Bayern Munich,13:30
+GW31,SATURDAY 25 April,Wolfsburg,Borussia Mönchengladbach,13:30
+GW31,SATURDAY 25 April,Augsburg,Eintracht Frankfurt,13:30
+GW31,SATURDAY 25 April,Heidenheim,St. Pauli,13:30
+GW31,SATURDAY 25 April,Cologne,Bayer Leverkusen,13:30
+GW31,SATURDAY 25 April,Hamburg,Hoffenheim,16:30
+GW31,SUNDAY 26 April,VfB Stuttgart,Werder Bremen,13:30
+GW31,SUNDAY 26 April,Borussia Dortmund,Freiburg,15:30
+GW32,SATURDAY 2 May,Bayern Munich,Heidenheim,13:30
+GW32,SATURDAY 2 May,Eintracht Frankfurt,Hamburg,13:30
+GW32,SATURDAY 2 May,Werder Bremen,Augsburg,13:30
+GW32,SATURDAY 2 May,Union Berlin,Cologne,13:30
+GW32,SATURDAY 2 May,Hoffenheim,VfB Stuttgart,13:30
+GW32,SATURDAY 2 May,Bayer Leverkusen,RB Leipzig,16:30
+GW32,SUNDAY 3 May,St. Pauli,Mainz,13:30
+GW32,SUNDAY 3 May,Borussia Mönchengladbach,Borussia Dortmund,15:30
+GW32,SUNDAY 3 May,Freiburg,Wolfsburg,17:30
+GW33,FRIDAY 8 May,Borussia Dortmund,Eintracht Frankfurt,18:30
+GW33,SATURDAY 9 May,RB Leipzig,St. Pauli,13:30
+GW33,SATURDAY 9 May,VfB Stuttgart,Bayer Leverkusen,13:30
+GW33,SATURDAY 9 May,Augsburg,Borussia Mönchengladbach,13:30
+GW33,SATURDAY 9 May,Hoffenheim,Werder Bremen,13:30
+GW33,SATURDAY 9 May,Wolfsburg,Bayern Munich,16:30
+GW33,SUNDAY 10 May,Hamburg,Freiburg,13:30
+GW33,SUNDAY 10 May,Cologne,Heidenheim,15:30
+GW33,SUNDAY 10 May,Mainz,Union Berlin,17:30
 GW34,SATURDAY 16 May,Bayern Munich,Cologne,13:30
 GW34,SATURDAY 16 May,Bayer Leverkusen,Hamburg,13:30
 GW34,SATURDAY 16 May,Eintracht Frankfurt,VfB Stuttgart,13:30
