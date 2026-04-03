@@ -1,69 +1,70 @@
 ﻿Matchweek,Date,Home,Away,Result/Time
-MW1,Fri 20 Mar,Bournemouth,Manchester United,2 - 2
-MW1,Sat 21 Mar,Brighton and Hove Albion,Liverpool,2 - 1
-MW1,Sat 21 Mar,Fulham,Burnley,3 - 1
-MW1,Sat 21 Mar,Everton,Chelsea,3 - 0
-MW1,Sat 21 Mar,Leeds United,Brentford,0 - 0
-MW1,Sun 22 Mar,Newcastle United,Sunderland,1 - 2
-MW1,Sun 22 Mar,Aston Villa,West Ham United,2 - 0
-MW1,Sun 22 Mar,Tottenham Hotspur,Nottingham Forest,0 - 3
-MW2,Fri 10 Apr,West Ham United,Wolverhampton Wanderers,19:00
-MW2,Sat 11 Apr,Arsenal,Bournemouth,11:30
-MW2,Sat 11 Apr,Brentford,Everton,14:00
-MW2,Sat 11 Apr,Burnley,Brighton and Hove Albion,14:00
-MW2,Sat 11 Apr,Liverpool,Fulham,16:30
-MW2,Sun 12 Apr,Crystal Palace,Newcastle United,13:00
-MW2,Sun 12 Apr,Nottingham Forest,Aston Villa,13:00
-MW2,Sun 12 Apr,Chelsea,Manchester City,15:30
-MW2,Mon 13 Apr,Manchester United,Leeds United,19:00
-MW3,Sat 18 Apr,Brentford,Fulham,11:30
-MW3,Sat 18 Apr,Leeds United,Wolverhampton Wanderers,14:00
-MW3,Sat 18 Apr,Newcastle United,Bournemouth,14:00
-MW3,Sat 18 Apr,Tottenham Hotspur,Brighton and Hove Albion,16:30
-MW3,Sat 18 Apr,Chelsea,Manchester United,19:00
-MW3,Sun 19 Apr,Aston Villa,Sunderland,13:00
-MW3,Sun 19 Apr,Everton,Liverpool,13:00
-MW3,Sun 19 Apr,Nottingham Forest,Burnley,13:00
-MW3,Sun 19 Apr,Manchester City,Arsenal,15:30
-MW3,Mon 20 Apr,Crystal Palace,West Ham United,19:00
-MW4,Sat 25 Apr,Fulham,Aston Villa,11:30
-MW4,Sat 25 Apr,Bournemouth,Leeds United,14:00
-MW4,Sat 25 Apr,Liverpool,Crystal Palace,14:00
-MW4,Sat 25 Apr,West Ham United,Everton,14:00
-MW4,Sat 25 Apr,Wolverhampton Wanderers,Tottenham Hotspur,14:00
-MW4,Sat 25 Apr,Arsenal,Newcastle United,16:30
-MW4,Sun 26 Apr,Burnley,Manchester City,13:00
-MW4,Sun 26 Apr,Brighton and Hove Albion,Chelsea,15:30
-MW4,Mon 27 Apr,Manchester United,Brentford,19:00
-MW5,Fri 1 May,Leeds United,Burnley,19:00
-MW5,Sat 2 May,Aston Villa,Tottenham Hotspur,11:30
-MW5,Sat 2 May,Bournemouth,Crystal Palace,14:00
-MW5,Sat 2 May,Brentford,West Ham United,14:00
-MW5,Sat 2 May,Newcastle United,Brighton and Hove Albion,14:00
-MW5,Sat 2 May,Wolverhampton Wanderers,Sunderland,14:00
-MW5,Sat 2 May,Arsenal,Fulham,16:30
-MW5,Sun 3 May,Manchester United,Liverpool,14:30
-MW5,Mon 4 May,Chelsea,Nottingham Forest,14:00
-MW5,Mon 4 May,Everton,Manchester City,19:00
-MW6,Sat 9 May,Brighton and Hove Albion,Wolverhampton Wanderers,14:00
-MW6,Sat 9 May,Burnley,Aston Villa,14:00
-MW6,Sat 9 May,Crystal Palace,Everton,14:00
-MW6,Sat 9 May,Fulham,Bournemouth,14:00
-MW6,Sat 9 May,Liverpool,Chelsea,14:00
-MW6,Sat 9 May,Manchester City,Brentford,14:00
-MW6,Sat 9 May,Nottingham Forest,Newcastle United,14:00
-MW6,Sat 9 May,Tottenham Hotspur,Leeds United,14:00
-MW6,Sat 9 May,West Ham United,Arsenal,14:00
-MW7,Sun 17 May,Arsenal,Burnley,14:00
-MW7,Sun 17 May,Aston Villa,Liverpool,14:00
-MW7,Sun 17 May,Bournemouth,Manchester City,14:00
-MW7,Sun 17 May,Brentford,Crystal Palace,14:00
-MW7,Sun 17 May,Chelsea,Tottenham Hotspur,14:00
-MW7,Sun 17 May,Everton,Sunderland,14:00
-MW7,Sun 17 May,Leeds United,Brighton and Hove Albion,14:00
-MW7,Sun 17 May,Manchester United,Nottingham Forest,14:00
-MW7,Sun 17 May,Newcastle United,West Ham United,14:00
-MW7,Sun 17 May,Wolverhampton Wanderers,Fulham,14:00
+MW1,Fri 10 Apr,West Ham United,Wolverhampton Wanderers,19:00
+MW1,Sat 11 Apr,Arsenal,Bournemouth,11:30
+MW1,Sat 11 Apr,Brentford,Everton,14:00
+MW1,Sat 11 Apr,Burnley,Brighton and Hove Albion,14:00
+MW1,Sat 11 Apr,Liverpool,Fulham,16:30
+MW1,Sun 12 Apr,Crystal Palace,Newcastle United,13:00
+MW1,Sun 12 Apr,Nottingham Forest,Aston Villa,13:00
+MW1,Sun 12 Apr,Chelsea,Manchester City,15:30
+MW1,Mon 13 Apr,Manchester United,Leeds United,19:00
+MW2,Sat 18 Apr,Brentford,Fulham,11:30
+MW2,Sat 18 Apr,Leeds United,Wolverhampton Wanderers,14:00
+MW2,Sat 18 Apr,Newcastle United,Bournemouth,14:00
+MW2,Sat 18 Apr,Tottenham Hotspur,Brighton and Hove Albion,16:30
+MW2,Sat 18 Apr,Chelsea,Manchester United,19:00
+MW2,Sun 19 Apr,Aston Villa,Sunderland,13:00
+MW2,Sun 19 Apr,Everton,Liverpool,13:00
+MW2,Sun 19 Apr,Nottingham Forest,Burnley,13:00
+MW2,Sun 19 Apr,Manchester City,Arsenal,15:30
+MW2,Mon 20 Apr,Crystal Palace,West Ham United,19:00
+MW3,Sat 25 Apr,Fulham,Aston Villa,11:30
+MW3,Sat 25 Apr,Bournemouth,Leeds United,14:00
+MW3,Sat 25 Apr,Liverpool,Crystal Palace,14:00
+MW3,Sat 25 Apr,West Ham United,Everton,14:00
+MW3,Sat 25 Apr,Wolverhampton Wanderers,Tottenham Hotspur,14:00
+MW3,Sat 25 Apr,Arsenal,Newcastle United,16:30
+MW3,Sun 26 Apr,Burnley,Manchester City,13:00
+MW3,Sun 26 Apr,Brighton and Hove Albion,Chelsea,15:30
+MW3,Mon 27 Apr,Manchester United,Brentford,19:00
+MW4,Fri 1 May,Leeds United,Burnley,19:00
+MW4,Sat 2 May,Aston Villa,Tottenham Hotspur,11:30
+MW4,Sat 2 May,Bournemouth,Crystal Palace,14:00
+MW4,Sat 2 May,Brentford,West Ham United,14:00
+MW4,Sat 2 May,Newcastle United,Brighton and Hove Albion,14:00
+MW4,Sat 2 May,Wolverhampton Wanderers,Sunderland,14:00
+MW4,Sat 2 May,Arsenal,Fulham,16:30
+MW4,Sun 3 May,Manchester United,Liverpool,14:30
+MW4,Mon 4 May,Chelsea,Nottingham Forest,14:00
+MW4,Mon 4 May,Everton,Manchester City,19:00
+MW5,Sat 9 May,Liverpool,Chelsea,11:30
+MW5,Sat 9 May,Brighton and Hove Albion,Wolverhampton Wanderers,14:00
+MW5,Sat 9 May,Burnley,Aston Villa,14:00
+MW5,Sat 9 May,Crystal Palace,Everton,14:00
+MW5,Sat 9 May,Fulham,Bournemouth,14:00
+MW5,Sat 9 May,Manchester City,Brentford,16:30
+MW5,Sun 10 May,Nottingham Forest,Newcastle United,13:00
+MW5,Sun 10 May,West Ham United,Arsenal,15:30
+MW5,Mon 11 May,Tottenham Hotspur,Leeds United,19:00
+MW6,Sun 17 May,Arsenal,Burnley,14:00
+MW6,Sun 17 May,Aston Villa,Liverpool,14:00
+MW6,Sun 17 May,Bournemouth,Manchester City,14:00
+MW6,Sun 17 May,Brentford,Crystal Palace,14:00
+MW6,Sun 17 May,Chelsea,Tottenham Hotspur,14:00
+MW6,Sun 17 May,Everton,Sunderland,14:00
+MW6,Sun 17 May,Leeds United,Brighton and Hove Albion,14:00
+MW6,Sun 17 May,Manchester United,Nottingham Forest,14:00
+MW6,Sun 17 May,Newcastle United,West Ham United,14:00
+MW6,Sun 17 May,Wolverhampton Wanderers,Fulham,14:00
+MW7,Sun 24 May,Brighton and Hove Albion,Manchester United,15:00
+MW7,Sun 24 May,Burnley,Wolverhampton Wanderers,15:00
+MW7,Sun 24 May,Crystal Palace,Arsenal,15:00
+MW7,Sun 24 May,Fulham,Newcastle United,15:00
+MW7,Sun 24 May,Liverpool,Brentford,15:00
+MW7,Sun 24 May,Manchester City,Aston Villa,15:00
+MW7,Sun 24 May,Nottingham Forest,Bournemouth,15:00
+MW7,Sun 24 May,Tottenham Hotspur,Everton,15:00
+MW7,Sun 24 May,West Ham United,Leeds United,15:00
 MW8,Sun 24 May,Brighton and Hove Albion,Manchester United,15:00
 MW8,Sun 24 May,Burnley,Wolverhampton Wanderers,15:00
 MW8,Sun 24 May,Crystal Palace,Arsenal,15:00
